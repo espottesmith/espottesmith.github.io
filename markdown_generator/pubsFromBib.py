@@ -26,21 +26,22 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
-    },
-    "journal":{
-        "file": "pubs.bib",
+    "publications":{
+        "file": "../files/bib/publications.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-    } 
+                        "permalink":"/publications/"}
+    },
+    "presentations": {
+        "file" : "../files/bib/presentations.bib",
+        "venuekey": "note",
+        "venue-pretext": "",
+        "collection" : {"name":"presentations",
+                        "permalink":"/presentations/"}
+
+    },
+
 }
 
 html_escape_table = {
@@ -55,6 +56,7 @@ def html_escape(text):
 
 
 for pubsource in publist:
+    print(pubsource)
     parser = bibtex.Parser()
     bibdata = parser.parse_file(publist[pubsource]["file"])
 
@@ -151,7 +153,9 @@ for pubsource in publist:
 
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, 'w') as f:
+            deposit_base = "../_{}/".format(pubsource)
+
+            with open(deposit_base + md_filename, 'w') as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference
