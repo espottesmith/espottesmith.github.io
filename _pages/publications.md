@@ -112,7 +112,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Xiaowei   Xie, Hetal D.  Patel, Mingjian   Wen, Brandon   Wood, Shyam   Dwaraknath, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Scientific Data</span>.
+			<span class="venuetype"></span><span class="venue">In review.</span>.
 			<br />
 			<span class="links">
 			</span>
