@@ -9,51 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my CV can be found [here](files/resume.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S./Ph.D. in Materials Science and Engineering, University of California, Berkeley (2024, expected)
+  * Advisor: Professor Kristin Aslaug Persson
+  * Thesis: "Understanding Solid Electrolyte Interphase Formation Mechanisms in Mg-ion Batteries"
+* B.S. in Materials Science and Engineering, Columbia University (2019)
+  * Minor: Sustainable Engineering
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Student Researcher, UC Berkeley/LBNL (2019 - present)
+  * Advisor: Kristin Aslaug Persson
+  * Identify mechanistic origins of solid electrolyte interphase (SEI) formation in Li-ion and Mg-ion batteries.
+  * Construct chemical reaction networks based on high-throughput density functional theory (DFT) to reveal optimal reaction pathways.
+  * Observe and analyze reactive competition through kinetic Monte Carlo (kMC) simulations.
+* Undergraduate Student Researcher, LBNL (2018-2019)
+  * Advisor: Anubhav Jain
+  * Performed computational screening studies of Diels-Alder reactions for liquid-phase thermal energy storage.
+  * Using DFT, identified a reaction leading to one of the highest specific heat capacities of any aqueous thermal fluid.
+* Lead Undergraduate Researcher, Columbia University (2016-2019)
+  * Advisor: Irving P. Herman
+  * Studied nanoparticle self-assembly at liquid-liquid and liquid-air interfaces using time-resolved and space-resolvedin situsynchrotron small angle x-ray scattering (SAXS).
+  * Developed a novel cell architecture to improve SAXS signal and revealed an unexpected dominant mechanism driving self-assembly kinetics.
   
-Skills
+Teaching experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Materials Project Workshop (2020)
+  * Instructor, "Pymatgen Foundations"
+* Columbia University (2018)
+  * Course Assistant, "MSAE 3111: Thermodynamics, Kinetic Theory, and Statistical Mechanics"
   
-Talks
+Leadership and Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 

@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+All publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=-VrJAPoAAAAJ&hl=en&oi=ao).
+
 <table class="table" cellspacing="0" cellpadding="0">
 <tbody>
 	<tr>
