@@ -1,0 +1,35 @@
+rkam:
+  display_name: Ronald L. Kam
+  role: former_mentee
+  project: |
+    Stochastic analysis of early-stage solid electrolyte interphase formation in Li-ion batteries
+  current_position: |
+    PhD student, Materials Science and Engineering (Gerbrand Ceder Group), University of California, Berkeley.
+  image: /images/ronald_kam.png
+
+akhanwale:
+  display_name: Aniruddh Khanwale
+  role: mentee
+  project: |
+    Optimizing performance in computational chemical reaction networks
+  current_position: |
+    Junior, Materials Science and Engineering/Computer Science, University of California, Berkeley
+  image: /images/aniruddh_khanwale.png
+
+nredkar:
+  display_name: Nikita S. Redkar
+  role: mentee
+  project: |
+    Predicting electrochemical reaction outcomes with machine learning
+  current_position: |
+    Junior, Chemical Engineering, University of California, Berkeley
+  image: /images/nikita_redkar.png
+
+theap:
+  display name: Thea B. Petrocelli
+  role: mentee
+  project: |
+    Elucidating solvent decomposition pathways in multivalent-ion battery electrolytes
+  current_position: |
+    Student, Cabrillo College
+  image: /images/thea_petrocelli.png
