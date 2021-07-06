@@ -26,7 +26,7 @@ nredkar:
   image: /images/nikita_redkar.png
 
 theap:
-  display name: Thea B. Petrocelli
+  display_name: Thea B. Petrocelli
   role: mentee
   project: |
     Elucidating solvent decomposition pathways in multivalent-ion battery electrolytes
