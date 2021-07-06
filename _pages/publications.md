@@ -7,7 +7,7 @@ author_profile: true
 
 All publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=-VrJAPoAAAAJ&hl=en&oi=ao).
 
-<table class="table" cellspacing="0" cellpadding="0">
+<table class="table" style="border:0;">
 <tbody>
 	<tr>
 		<td>
@@ -114,7 +114,7 @@ All publications can be found on my [Google Scholar profile](https://scholar.goo
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Xiaowei   Xie, Hetal D.  Patel, Mingjian   Wen, Brandon   Wood, Shyam   Dwaraknath, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review.</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>

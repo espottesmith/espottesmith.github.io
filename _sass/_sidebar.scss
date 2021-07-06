@@ -87,8 +87,8 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 1px;
+      border: 0px solid $border-color;
     }
   }
 }
@@ -234,4 +234,9 @@
       text-decoration: underline;
     }
   }
+}
+
+.person__text {
+  float: right;
+  display: table-cell;
 }

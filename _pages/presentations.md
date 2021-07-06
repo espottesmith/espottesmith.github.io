@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-<table class="table" cellspacing="0" cellpadding="0">
+<table class="table" style="border:0;">
 <tbody>
 	<tr>
 		<td>
