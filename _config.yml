@@ -312,5 +312,5 @@ compress_html:
 
 
 roles:
-    - {key: mentee, name: Mentee}
-    - {key: former_mentee, name: Former Mentee}
+    - {key: mentee, name: Current Mentees}
+    - {key: former_mentee, name: Former Mentees}

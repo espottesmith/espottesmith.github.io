@@ -11,13 +11,15 @@ main:
 
   - title: "Presentations"
     url: /presentations/
-        
+
+  - title: "Software"
+    url: /software/
+
   - title: "News"
     url: /news/
     
   - title: "CV"
     url: /cv/
-    
 #  - title: "Guide"
 #    url: /markdown/
 

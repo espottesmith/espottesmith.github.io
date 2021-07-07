@@ -1,0 +1,39 @@
+mpcat:
+  name: MPcat
+  description: |
+    An interface between the Schrodinger Python API and the Materials Project software suite, allowing for high-throughput transition-state searches and other DFT calculations using Jaguar and AutoTS.
+  role: Lead Developer/Maintainer
+  image: /images/mpcat.png
+  url: https://github.com/espottesmith/MPcat
+
+mrnet:
+  name: Molecular Reaction Networks (MR.Net or Mr. Network)
+  description: |
+    A toolkit for the generation and analysis of large-scale computational chemical reaction networks, including graph-based pathfinding and high-performance stochastic (Monte Carlo) analysis.
+  role: Developer
+  image: /images/mrnet.png
+  url: https://github.com/materialsproject/mrnet
+
+pymatgen:
+  name: Python Materials Genomics (pymatgen)
+  description: |
+    A robust, open-source Python library for materials analysis.
+  role: Contributor
+  image: /images/pymatgen.png
+  url: https://github.com/materialsproject/pymatgen
+
+custodian:
+  name: custodian
+  description: |
+    A simple, robust and flexible just-in-time (JIT) job management framework written in Python which facilitates error checking, job management, and error recovery.
+  role: Contributor
+  image: /images/custodian.png
+  url: https://github.com/materialsproject/custodian
+
+atomate:
+  name: atomate
+  description: |
+    A software for computational materials science that contains pre-built workflows to compute and analyze the properties of materials.
+  role: Contributor
+  image: /images/atomate.png
+  url: https://github.com/hackingmaterials/atomate
