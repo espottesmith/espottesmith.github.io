@@ -58,7 +58,7 @@ Leadership and Service
   * Succeeded in hiring candidate for the position of Assistant Professor
   * **Current role**: Mentor
 * **Interstitials Mentorship Program** (2020)
-  * Lead peer-to-peer mentorship program for materials science community
+  * Led peer-to-peer mentorship program for materials science community
   * **Previous roles**: Co-Director, Mentor
 * **Columbia University Engineers Without Borders (CU-EWB)** (2015 - 2018)
   * Designed and implemented solar micro-grids for rural communities in the Teso Sub-Region of Uganda
