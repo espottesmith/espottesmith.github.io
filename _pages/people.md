@@ -26,7 +26,7 @@ author_profile: true
 </div>
 </td>
 <td>
-<h1>{{ person.display_name }}</h1>
+<strong>{{ person.display_name }}</strong>
 {% if person.project %}
 {{ person.project | prepend: "Project: " | markdownify }}
 {% endif %}
