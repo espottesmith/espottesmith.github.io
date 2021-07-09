@@ -30,7 +30,7 @@ I am actively working on the development of a similar dataset of reaction pathwa
 </td>
 <td>
 <div class="project__image">
-<img src="/images/high_throughput_reactivity.png" class="project__image" alt="Creating workflows for automated thermodynamic and kinetic calculations">
+<img src="/images/high_throughput_reactivity.png" class="project__image" alt="Large datasets of molecular properties calculated using high-throughput density functional theory">
 </div>
 </td>
 </tr>
@@ -42,7 +42,7 @@ I am actively working on the development of a similar dataset of reaction pathwa
 </td>
 <td>
 <div class="project__image">
-<img src="/images/sei_formation.png" class="project__image" alt="Dynamical study of solid electrolyte interphase formation in Li-ion batteries">
+<img src="/images/sei_formation.png" class="project__image" alt="Stochastic studies based on first-principles energy barriers provide mechanistic insight into solid electrolyte interphase formation">
 </div>
 </td>
 </tr>
