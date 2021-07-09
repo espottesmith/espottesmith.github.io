@@ -23,9 +23,9 @@ methods to automate calculations of reactive ground-state molecules as well as r
 transition-state theory and Marcus theory), allowing for the accurate prediction of reaction thermodynamics and kinetics
 from first-principles.<br>
 Using the workflows that I have devised and implemented, it is possible to generate <a href="/files/papers/spottesmith_quantum_chemrxiv_2021.pdf">large datasets</a>
-containing the properties of reactive molecules, which allow for the construction of <a href="/files/papers/blau_chemically_2021.pdf">massive chemical reaction networks</a>
-and the development of <a href="/files/papers/wen_bondnet_2021.pdf">neural networks</a>, for instance for the prediction of bond dissociation energies.
-I am actively working on the development of a similar dataset of reaction pathways, with the eventual goal of machine learning energy barriers for arbitrary
+containing the properties of reactive molecules. Such datasets have already been used by myself and my colleagues to construct <a href="/files/papers/blau_chemically_2021.pdf">massive chemical reaction networks</a>
+and to train <a href="/files/papers/wen_bondnet_2021.pdf">neural networks</a>, for instance for the prediction of bond dissociation energies.<br>
+I am working to develop a similar dataset of reaction pathways, with the eventual goal of machine learning energy barriers for arbitrary
 (electro)chemical reactions with DFT-level accuracy.
 </td>
 <td>
@@ -42,11 +42,11 @@ The solid electrolyte interphase (SEI) is critically important for metal-ion bat
 reversible cycling - but it is also notoriously difficult to study. I aim to take a new approach to understand how the SEI forms.
 Using reaction networks, one can automatically identify thermodynamically and kinetically favorable reaction pathways to SEI products of interest.
 My colleagues and I have, for instance, recently taken this approach to understand the formation of the newly proposed organic SEI component <a href="/files/papers/xie_data_driven_chemrxiv_2021.pdf">lithium
-ethylene monocarbonate</a> (LEMC). Once we have a sufficiently comprehensive collection of reaction mechanisms, it is possible to construct microkinetic
-models of SEI formation. Such models allow for the observation of competition between SEI products and formation pathways and can provide a mechanistic
-explanation for structural and compositional trends observed in experiment for the first time.<br>
+ethylene monocarbonate</a> (LEMC). With sufficiently comprehensive collection of reaction mechanisms, I then construct microkinetic
+models of SEI formation. Such models allow me to observe competition between SEI products and formation pathways and can provide mechanistic
+explanations for structural and compositional trends observed in experiment.<br>
 To date, most of my research on SEI formation has focused on lithium-ion batteries, but I am currently working to expand my research and explore SEI formation
-mechanisms in magnesium-ion batteries, where even less is known regarding SEI formation.
+mechanisms in magnesium-ion batteries.
 </td>
 <td>
 <div class="project__image">

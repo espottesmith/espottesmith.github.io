@@ -15,11 +15,12 @@ main:
   - title: "Software"
     url: /software/
 
-  - title: "News"
-    url: /news/
+#  - title: "News"
+#    url: /news/
     
   - title: "CV"
     url: /cv/
+
 #  - title: "Guide"
 #    url: /markdown/
 
