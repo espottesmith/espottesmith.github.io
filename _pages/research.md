@@ -38,7 +38,15 @@ I am actively working on the development of a similar dataset of reaction pathwa
 <tr>
 <td>
 <h2>Revealing the mechanistic origins of SEI formation</h2>
-
+The solid electrolyte interphase (SEI) is critically important for metal-ion battery function - preventing electrolyte degradation and allowing
+reversible cycling - but it is also notoriously difficult to study. I aim to take a new approach to understand how the SEI forms.
+Using reaction networks, one can automatically identify thermodynamically and kinetically favorable reaction pathways to SEI products of interest.
+My colleagues and I have, for instance, recently taken this approach to understand the formation of the newly proposed organic SEI component <a href="/files/papers/xie_data_driven_chemrxiv_2021.pdf">lithium
+ethylene monocarbonate</a> (LEMC). Once we have a sufficiently comprehensive collection of reaction mechanisms, it is possible to construct microkinetic
+models of SEI formation. Such models allow for the observation of competition between SEI products and formation pathways and can provide a mechanistic
+explanation for structural and compositional trends observed in experiment for the first time.<br>
+To date, most of my research on SEI formation has focused on lithium-ion batteries, but I am currently working to expand my research and explore SEI formation
+mechanisms in magnesium-ion batteries, where even less is known regarding SEI formation.
 </td>
 <td>
 <div class="project__image">
@@ -47,6 +55,8 @@ I am actively working on the development of a similar dataset of reaction pathwa
 </td>
 </tr>
 
+<!-- TODO: Add a section on product prediction - maybe EcheML logo? -->
+<!--
 <tr>
 <td>
 <h2>Predicting electrochemical reaction outcomes</h2>
@@ -58,5 +68,6 @@ I am actively working on the development of a similar dataset of reaction pathwa
 </div>
 </td>
 </tr>
+-->
 </tbody>
 </table>
