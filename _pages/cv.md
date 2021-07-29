@@ -68,13 +68,13 @@ Leadership and Service
   * **Previous roles**: Social Chair
 * **Faculty Search Committee, UC Berkeley Department of Materials Science and Engineering** (2020, 2021)
   * Succeeded in hiring candidate for the position of Assistant Professor
-  * **Current role**: Mentor
+  * **Current role**: Member
 * **Interstitials Mentorship Program** (2020)
   * Led peer-to-peer mentorship program for materials science community
   * **Previous roles**: Co-Director, Mentor
 * **Columbia University Engineers Without Borders (CU-EWB)** (2015 - 2018)
   * Designed and implemented solar micro-grids for rural communities in the Teso Sub-Region of Uganda
-  * **Previous roles**: President, Program Manager, Director of Grants, Program Liaison, Director of Operations
+  * **Previous roles**: Engineering Mentor, President, Program Manager, Director of Grants, Program Liaison, Director of Operations
 * **Columbia Educational Simulations (CESIMS)** (2016 - 2018)
   * Trained 25 student delegates at The Brooklyn Latin School for local and regional MUN conferences
   * Led lessons and simulations on debate, public speaking, and international affairs

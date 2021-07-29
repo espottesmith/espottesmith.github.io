@@ -33,3 +33,28 @@ theap:
   current_position: |
     Student, Cabrillo College
   image: /images/thea_petrocelli.png
+
+kristin:
+  display_name: Kristin Aslaug Persson
+  role: advisor
+  current_position: |
+    Professor, UC Berkeley; Director, Molecular Foundry; Directory, Materials Project
+  image: /images/kristin_persson.png
+
+sblau:
+  display_name: Samuel M. Blau
+  role: mentor
+  current_position: Research Scientist, Lawrence Berkeley National Laboratory
+  image: /images/sam_blau.png
+
+anubhav:
+  display_name: Anubhav Jain
+  role: former_advisor
+  current_position: Staff Scientist, Lawrence Berkeley National Laboratory
+  image: /images/anubhav_jain.png
+
+irvingph:
+  display_name: Irving P. Herman
+  role: former_advisor
+  current_position: Edwin Howard Armstrong Professor, Columbia University
+  image: /images/irving_herman.png
