@@ -11,6 +11,33 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				<big><strong>2021</strong></big><br />
+				
+        
+				
+				
+        
+        
+        
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Using Dynamic Models to Understand Reactive Competition in Lithium-Ion Battery Solid-Electrolyte Interphase Formation.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Ronald L.  Kam, Daniel   Barter, Xiaowei   Xie, Julian   Self, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Accepted to 2021 AIChE Annual Meeting</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				<big><strong>2020</strong></big><br />
 				
         

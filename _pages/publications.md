@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-All publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=-VrJAPoAAAAJ&hl=en&oi=ao).
+Note: * = Equal Contribution
 
 <table class="table" style="border:0;">
 <tbody>
@@ -65,28 +64,6 @@ All publications can be found on my [Google Scholar profile](https://scholar.goo
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<img src="/images/pdficon_small.png" width="16"
-					height="16" alt="PDF" />
-				<a href="/files/papers/xie_data_driven_chemrxiv_2021.pdf">Data-driven Prediction of Formation Mechanisms of Lithium Ethylene Monocarbonate with an Automated Reaction Network</a>.
-			</span><br />
-			<span class="authors">
-				Xiaowei   Xie, <b>Evan Walter Clark  Spotte-Smith</b>, Hetal   Patel, Samuel M.  Blau, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				Insight into SEI growth in Li-ion batteries using molecular dynamics and accelerated chemical reactions.
 			</span><br />
 			<span class="authors">
@@ -115,6 +92,28 @@ All publications can be found on my [Google Scholar profile](https://scholar.goo
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Xiaowei   Xie, Hetal D.  Patel, Mingjian   Wen, Brandon   Wood, Shyam   Dwaraknath, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In review</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<img src="/images/pdficon_small.png" width="16"
+					height="16" alt="PDF" />
+				<a href="/files/papers/xie_data_driven_chemrxiv_2021.pdf">Data-driven Prediction of Formation Mechanisms of Lithium Ethylene Monocarbonate with an Automated Reaction Network</a>.
+			</span><br />
+			<span class="authors">
+				Xiaowei   Xie, <b>Evan Walter Clark  Spotte-Smith</b>, Mingjian   Wen, Hetal   Patel, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Accepted in Journal of the American Chemical Society</span>.
 			<br />
 			<span class="links">
 			</span>
