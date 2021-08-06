@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Note: * = Equal Contribution
 
 <table class="table" style="border:0;">
 <tbody>
@@ -86,12 +85,12 @@ Note: * = Equal Contribution
 			<span class="pubtitle">
 				<img src="/images/pdficon_small.png" width="16"
 					height="16" alt="PDF" />
-				<a href="/files/papers/spottesmith_quantum_chemrxiv_2021.pdf">Quantum chemical calculations of lithium-ion battery electrolyte and interphase species</a>.
+				<a href="/files/papers/xie_data_driven_chemrxiv_2021.pdf">Data-driven Prediction of Formation Mechanisms of Lithium Ethylene Monocarbonate with an Automated Reaction Network</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Xiaowei   Xie, Hetal D.  Patel, Mingjian   Wen, Brandon   Wood, Shyam   Dwaraknath, and Kristin A.  Persson.
+				Xiaowei   Xie, <b>Evan Walter Clark  Spotte-Smith</b>, Mingjian   Wen, Hetal   Patel, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">Accepted in Journal of the American Chemical Society</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -108,12 +107,12 @@ Note: * = Equal Contribution
 			<span class="pubtitle">
 				<img src="/images/pdficon_small.png" width="16"
 					height="16" alt="PDF" />
-				<a href="/files/papers/xie_data_driven_chemrxiv_2021.pdf">Data-driven Prediction of Formation Mechanisms of Lithium Ethylene Monocarbonate with an Automated Reaction Network</a>.
+				<a href="/files/papers/spottesmith_quantum_2021.pdf">Quantum chemical calculations of lithium-ion battery electrolyte and interphase species</a>.
 			</span><br />
 			<span class="authors">
-				Xiaowei   Xie, <b>Evan Walter Clark  Spotte-Smith</b>, Mingjian   Wen, Hetal   Patel, Samuel M.  Blau, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Xiaowei   Xie, Hetal D.  Patel, Mingjian   Wen, Brandon   Wood, Shyam   Dwaraknath, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Journal of the American Chemical Society</span>.
+			<span class="venuetype"></span><span class="venue">Scientific Data 8(203)</span>.
 			<br />
 			<span class="links">
 			</span>
