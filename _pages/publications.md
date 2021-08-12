@@ -85,12 +85,12 @@ author_profile: true
 			<span class="pubtitle">
 				<img src="/images/pdficon_small.png" width="16"
 					height="16" alt="PDF" />
-				<a href="/files/papers/xie_data_driven_chemrxiv_2021.pdf">Data-driven Prediction of Formation Mechanisms of Lithium Ethylene Monocarbonate with an Automated Reaction Network</a>.
+				<a href="/files/papers/xie_data_driven_2021.pdf">Data-driven Prediction of Formation Mechanisms of Lithium Ethylene Monocarbonate with an Automated Reaction Network</a>.
 			</span><br />
 			<span class="authors">
-				Xiaowei   Xie, <b>Evan Walter Clark  Spotte-Smith</b>, Mingjian   Wen, Hetal   Patel, Samuel M.  Blau, and Kristin A.  Persson.
+				Xiaowei   Xie, <b>Evan Walter Clark  Spotte-Smith</b>, Mingjian   Wen, Hetal D.  Patel, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Journal of the American Chemical Society</span>.
+			<span class="venuetype"></span><span class="venue">Journal of the American Chemical Society</span>.
 			<br />
 			<span class="links">
 			</span>
