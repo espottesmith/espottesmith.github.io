@@ -63,12 +63,14 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Insight into SEI growth in Li-ion batteries using molecular dynamics and accelerated chemical reactions.
+				<img src="/images/pdficon_small.png" width="16"
+					height="16" alt="PDF" />
+				<a href="/files/papers/alzate_vargas_insight_2021.pdf">Insight into SEI growth in Li-ion batteries using molecular dynamics and accelerated chemical reactions</a>.
 			</span><br />
 			<span class="authors">
-				Lorena   Alzate-Vargas, Srikanth   Allu, Samuel   Blau, <b>Evan Walter Clark  Spotte-Smith</b>, Kristin A.  Persson, and Jean-Luc   Fattebert.
+				Lorena   Alzate-Vargas, Samuel   Blau, <b>Evan Walter Clark  Spotte-Smith</b>, Srikanth   Allu, Kristin A.  Persson, and Jean-Luc   Fattebert.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">Journal of Physical Chemistry C</span>.
 			<br />
 			<span class="links">
 			</span>
