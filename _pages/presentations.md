@@ -50,7 +50,7 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Automatic Generation of Computational Reaction Networks for Unbiased Exploration of Chemical Pathways.
+				<a href="https://vimeo.com/486442700">Automatic Generation of Computational Reaction Networks for Unbiased Exploration of Chemical Pathways</a>.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Xiaowei   Xie, Brandon   Wood, Hetal   Patel, Shyam   Dwaraknath, and Kristin A.  Persson.
@@ -70,7 +70,7 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				A Robust Computational Framework for High-Throughput Density Functional Theory Calculations for Electrochemical Application.
+				<a href="https://vimeo.com/465134867">A Robust Computational Framework for High-Throughput Density Functional Theory Calculations for Electrochemical Application</a>.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Brandon   Wood, Shyam   Dwaraknath, and Kristin A.  Persson.
