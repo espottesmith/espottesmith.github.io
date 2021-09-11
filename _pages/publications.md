@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <table class="table" style="border:0;">
+Note: * = Equal Contribution
 <tbody>
 	<tr>
 		<td>
