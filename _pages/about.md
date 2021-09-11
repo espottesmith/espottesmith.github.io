@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD candidate in Materials Science and Engineering at the University of California, Berkeley
-and Lawrence Berkeley National Laboratory. I am advised by Professor [Kristin Aslaug Persson](https:perssongroup.lbl.gov),
+and Lawrence Berkeley National Laboratory. I am advised by Professor [Kristin Aslaug Persson](https://perssongroup.lbl.gov),
 and I work closely with scholars within the Joint Center for Energy Storage Research ([JCESR](https://www.jcesr.org/)) and
 the [Silicon Consortium Project](https://www.nrel.gov/transportation/silicon-anode-consortium.html).
 
