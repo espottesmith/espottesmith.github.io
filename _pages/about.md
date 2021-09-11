@@ -26,4 +26,4 @@ During my undergraduate education, I conducted research on nanoparticle self-ass
 storage applications with [Anubhav Jain](https://hackingmaterials.lbl.gov/)  and [Ravi Prasher](https://thermalenergy.lbl.gov/)
 of Lawrence Berkeley National Laboratory.
 
-More information can be found in my full [CV](files/resume.pdf).
+More information can be found in my full [CV](files/evan_spotte-smith_cv.pdf).

@@ -23,10 +23,10 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				MR.Net: A Python Library for Construction and Analysis of Molecular Reaction Networks.
+				MADEIRA: Magnesium Dataset of Electrolyte and Interphase Reagents.
 			</span><br />
 			<span class="authors">
-				Daniel   Barter*, Hetal D.  Patel*, Aniruddh   Khanwale, <b>Evan Walter Clark  Spotte-Smith</b>, Ronald L.  Kam, Mingjian   Wen, Xiaowei   Xie, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -63,6 +63,26 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Predictive electrochemical reaction network analysis via performant template-free reaction generation and thermodynamically-bounded stochastic pathfinding.
+			</span><br />
+			<span class="authors">
+				Daniel   Barter*, <b>Evan Walter Clark  Spotte-Smith</b>*, Nikita S.  Redkar, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				<img src="/images/pdficon_small.png" width="16"
 					height="16" alt="PDF" />
 				<a href="/files/papers/alzate_vargas_insight_2021.pdf">Insight into SEI growth in Li-ion batteries using molecular dynamics and accelerated chemical reactions</a>.
@@ -70,7 +90,7 @@ author_profile: true
 			<span class="authors">
 				Lorena   Alzate-Vargas, Samuel   Blau, <b>Evan Walter Clark  Spotte-Smith</b>, Srikanth   Allu, Kristin A.  Persson, and Jean-Luc   Fattebert.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Journal of Physical Chemistry C</span>.
+			<span class="venuetype"></span><span class="venue">Journal of Physical Chemistry C 125(34)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -92,7 +112,7 @@ author_profile: true
 			<span class="authors">
 				Xiaowei   Xie, <b>Evan Walter Clark  Spotte-Smith</b>, Mingjian   Wen, Hetal D.  Patel, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Journal of the American Chemical Society</span>.
+			<span class="venuetype"></span><span class="venue">Journal of the American Chemical Society 143(33)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -136,7 +156,7 @@ author_profile: true
 			<span class="authors">
 				Samuel M.  Blau, Hetal   Patel, <b>Evan Walter Clark  Spotte-Smith</b>, Xiaowei   Xie, Shyam   Dwaraknath, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Chemical Science 12</span>.
+			<span class="venuetype"></span><span class="venue">Chemical Science 12(13)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -158,7 +178,7 @@ author_profile: true
 			<span class="authors">
 				Mingjian   Wen, Samuel M.  Blau, <b>Evan Walter Clark  Spotte-Smith</b>, Shyam   Dwaraknath, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Chemical Science 12</span>.
+			<span class="venuetype"></span><span class="venue">Chemical Science 12(5)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -209,7 +229,7 @@ author_profile: true
 			<span class="authors">
 				Jiayang   Hu, <b>Evan Walter Clark  Spotte-Smith</b>, Brady   Pan, Roy   Garcia, Carlos   Colosqui, and Irving P  Herman.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">The Journal of Physical Chemistry C 124</span>.
+			<span class="venuetype"></span><span class="venue">The Journal of Physical Chemistry C 124(13)</span>.
 			<br />
 			<span class="links">
 			</span>
