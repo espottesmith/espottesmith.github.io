@@ -5,8 +5,35 @@ permalink: /presentations/
 author_profile: true
 ---
 
-<table class="table" style="border:0;">
+<table class="table" style="border: 0;">
 <tbody>
+	<tr>
+		<td>
+			<span class="date">
+				
+				<big><strong>2022</strong></big><br />
+				
+        
+				
+				
+        
+        
+        
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				A General Mechanistic Model of Early Solid-Electrolyte Interphase Formation in Lithium-ion Batteries.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Ronald L.  Kam, Daniel   Barter, Julian   Self, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Accepted to 2022 Gordon Research Conference in Electrochemistry</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
 	<tr>
 		<td>
 			<span class="date">

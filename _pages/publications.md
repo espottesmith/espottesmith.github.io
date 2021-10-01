@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<table class="table" style="border:0;">
+<table class="table" style="border: 0;">
 
 Note: * = Equal Contribution
 
@@ -26,10 +26,30 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				MADEIRA: Magnesium Dataset of Electrolyte and Interphase Reagents.
+				First-principles dataset of molecules relevant to magnesium-ion battery solid electrolyte interphase formation.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				A Comparative Study of Catalytic Ion-Assisted Solvent Decomposition in Multivalent-Ion Batteries.
+			</span><br />
+			<span class="authors">
+				Thea B.  Petrocelli, <b>Evan Walter Clark  Spotte-Smith</b>, Aniruddh   Khanwale, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -66,7 +86,27 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Predictive electrochemical reaction network analysis via performant template-free reaction generation and thermodynamically-bounded stochastic pathfinding.
+				Carbene Chemistry in the Lithium-Ion Battery Solid Electrolyte Interphase.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Aniruddh   Khanwale, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Predictive and Automated Reaction Network Analysis of Complex Reaction Cascades.
 			</span><br />
 			<span class="authors">
 				Daniel   Barter*, <b>Evan Walter Clark  Spotte-Smith</b>*, Nikita S.  Redkar, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
