@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<table class="table" style="border: 0;">
+<table class="table" style="border:0;">
 
 Note: * = Equal Contribution
 
@@ -49,7 +49,7 @@ Note: * = Equal Contribution
 				A Comparative Study of Catalytic Ion-Assisted Solvent Decomposition in Multivalent-Ion Batteries.
 			</span><br />
 			<span class="authors">
-				Thea B.  Petrocelli, <b>Evan Walter Clark  Spotte-Smith</b>, Aniruddh   Khanwale, Samuel M.  Blau, and Kristin A.  Persson.
+				Thea B.  Petrocelli, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander   Epstein, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
