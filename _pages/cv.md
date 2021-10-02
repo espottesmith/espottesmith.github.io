@@ -76,6 +76,6 @@ Leadership and Service
   * Designed and implemented solar micro-grids for rural communities in the Teso Sub-Region of Uganda
   * **Previous roles**: Engineering Mentor, President, Program Manager, Director of Grants, Program Liaison, Director of Operations
 * **Columbia Educational Simulations (CESIMS)** (2016 - 2018)
-  * Trained 25 student delegates at The Brooklyn Latin School for local and regional MUN conferences
-  * Led lessons and simulations on debate, public speaking, and international affairs
+  * Trained 25 student delegates at The Brooklyn Latin School for local and regional debate conferences
+  * Led lessons and simulations on public speaking, history, and international affairs
   * **Previous roles**: Academic Advisor
