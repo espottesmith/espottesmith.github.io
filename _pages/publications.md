@@ -89,7 +89,7 @@ Note: * = Equal Contribution
 				Carbene Chemistry in the Lithium-Ion Battery Solid Electrolyte Interphase.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Aniruddh   Khanwale, Samuel M.  Blau, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Aniruddh   Khanwale, Daniel   Barter, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
