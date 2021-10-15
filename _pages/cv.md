@@ -49,7 +49,7 @@ Honors and Awards
 * **Honorable Mention**, NSF Graduate Research Fellowship Program (2019)
 * **Frank McQuiston Fellowship**, University of California, Berkeley Department of Materials Science and Engineering (2019)
 * **Clarendon Fund Scholarship**, University of Oxford (2019, declined)
-* **Magne Cum Laude**, Columbia University (2019)
+* **Magna Cum Laude**, Columbia University (2019)
 * **Tau Beta Pi**, New York Alpha Chapter (2019)
 * **Francis B. F. Rhodes Prize**, Columbia University (2019)
 * **King's Crown Leadership Excellence Award for Civic Responsibility**, Columbia University (2019)
