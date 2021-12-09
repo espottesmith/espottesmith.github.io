@@ -4,11 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<table class="table" style="border:0;">
-
 Note: * = Equal Contribution
 
+<table class="table" style="border:0;">
 <tbody>
 	<tr>
 		<td>
@@ -66,26 +64,6 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				A General Mechanistic Model of Early Solid-Electrolyte Interphase Formation in Lithium-ion Batteries.
-			</span><br />
-			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Ronald   Kam*, Daniel   Barter, Julian   Self, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				Carbene Chemistry in the Lithium-Ion Battery Solid Electrolyte Interphase.
 			</span><br />
 			<span class="authors">
@@ -106,7 +84,27 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Predictive and Automated Reaction Network Analysis of Complex Reaction Cascades.
+				Towards A Mechanistic Model of Solid-Electrolyte Interphase Formation in Lithium-ion Batteries.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Ronald   Kam*, Daniel   Barter, Julian   Self, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Template-Free Reaction Networks Enable Predictive and Automated Analysis of Complex Electrochemical Reaction Cascades.
 			</span><br />
 			<span class="authors">
 				Daniel   Barter*, <b>Evan Walter Clark  Spotte-Smith</b>*, Nikita S.  Redkar, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.

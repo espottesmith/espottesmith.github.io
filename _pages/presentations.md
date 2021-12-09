@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-<table class="table" style="border: 0;">
+<table class="table" style="border:0;">
 <tbody>
 	<tr>
 		<td>
@@ -55,7 +55,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Ronald L.  Kam, Daniel   Barter, Xiaowei   Xie, Julian   Self, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted to 2021 AIChE Annual Meeting</span>.
+			<span class="venuetype"></span><span class="venue">Accepted to 2021 AIChE Annual Meeting (withdrawn)</span>.
 			<br />
 			<span class="links">
 			</span>

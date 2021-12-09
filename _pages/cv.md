@@ -45,6 +45,7 @@ Teaching experience
 Honors and Awards
 ======
 
+* **Philomathia Graduate Student Fellowship**, Kavli Energy Nanoscience Institute (2022)
 * **Honorable Mention**, NSF Graduate Research Fellowship Program (2020)
 * **Honorable Mention**, NSF Graduate Research Fellowship Program (2019)
 * **Frank McQuiston Fellowship**, University of California, Berkeley Department of Materials Science and Engineering (2019)
