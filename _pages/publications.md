@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 Note: * = Equal Contribution
 
 <table class="table" style="border:0;">
@@ -12,7 +13,7 @@ Note: * = Equal Contribution
 		<td>
 			<span class="date">
 				
-				<big><strong>2021</strong></big><br />
+				<big><strong>2022</strong></big><br />
 				
         
 				
@@ -99,17 +100,24 @@ Note: * = Equal Contribution
 		<td>
 			<span class="date">
 				
+				<big><strong>2021</strong></big><br />
 				
+        
+				
+				
+        
+        
+        
 			</span>
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Template-Free Reaction Networks Enable Predictive and Automated Analysis of Complex Electrochemical Reaction Cascades.
+				<a href="/files/papers/barter_template_free_2021.pdf">Template-Free Reaction Networks Enable Predictive and Automated Analysis of Complex Electrochemical Reaction Cascades</a>.
 			</span><br />
 			<span class="authors">
 				Daniel   Barter*, <b>Evan Walter Clark  Spotte-Smith</b>*, Nikita S.  Redkar, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
 			<br />
 			<span class="links">
 			</span>
