@@ -100,19 +100,12 @@ Note: * = Equal Contribution
 		<td>
 			<span class="date">
 				
-				<big><strong>2021</strong></big><br />
 				
-        
-				
-				
-        
-        
-        
 			</span>
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/barter_template_free_2021.pdf">Template-Free Reaction Networks Enable Predictive and Automated Analysis of Complex Electrochemical Reaction Cascades</a>.
+				<a href="/files/papers/barter_template_free_2022.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
 			</span><br />
 			<span class="authors">
 				Daniel   Barter*, <b>Evan Walter Clark  Spotte-Smith</b>*, Nikita S.  Redkar, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
@@ -127,7 +120,14 @@ Note: * = Equal Contribution
 		<td>
 			<span class="date">
 				
+				<big><strong>2021</strong></big><br />
 				
+        
+				
+				
+        
+        
+        
 			</span>
 		</td>
 		<td class="publication">
