@@ -37,10 +37,12 @@ Research experience
   
 Teaching experience
 ======
+* **University of California Berkeley** (2022)
+  * Graduate Student Instructor, "General Chemistry and Quantitative Analysis"
 * **Materials Project Workshop** (2020)
   * Instructor, "Pymatgen Foundations"
 * **Columbia University** (2018)
-  * Course Assistant, "MSAE 3111: Thermodynamics, Kinetic Theory, and Statistical Mechanics"
+  * Course Assistant, "Thermodynamics, Kinetic Theory, and Statistical Mechanics"
   
 Honors and Awards
 ======
@@ -48,7 +50,7 @@ Honors and Awards
 * **Philomathia Graduate Student Fellowship**, Kavli Energy Nanoscience Institute (2022)
 * **Honorable Mention**, NSF Graduate Research Fellowship Program (2020)
 * **Honorable Mention**, NSF Graduate Research Fellowship Program (2019)
-* **Frank McQuiston Fellowship**, University of California, Berkeley Department of Materials Science and Engineering (2019)
+* **Frank McQuiston Fellowship**, UC Berkeley Department of Materials Science and Engineering (2019)
 * **Clarendon Fund Scholarship**, University of Oxford (2019, declined)
 * **Magna Cum Laude**, Columbia University (2019)
 * **Tau Beta Pi**, New York Alpha Chapter (2019)
