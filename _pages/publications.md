@@ -85,12 +85,12 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Towards A Mechanistic Model of Solid-Electrolyte Interphase Formation in Lithium-ion Batteries.
+				<a href="/files/papers/spottesmith_kam_towards_mechanistic_2022.pdf">Towards a Mechanistic Model of Solid-Electrolyte Interphase Formation and Evolution in Lithium-ion Batteries</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Ronald   Kam*, Daniel   Barter, Julian   Self, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Ronald   Kam*, Daniel   Barter, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
 			<br />
 			<span class="links">
 			</span>
