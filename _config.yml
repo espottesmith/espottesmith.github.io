@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Evan Walter Clark Spotte-Smith"
 title_separator          : "-"
 name                     : &name "Evan Walter Clark Spotte-Smith"
-description              : &description "PhD candidate in computational electrochemistry, UC Berkeley/LBNL"
+description              : &description "He/They | PhD candidate in computational electrochemistry, UC Berkeley/LBNL"
 url                      : https://espottesmith.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "espottesmith/espottesmith.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Evan Walter Clark Spotte-Smith"
   avatar           : "headshot_2021.jpeg"
-  bio              : "PhD candidate in computational electrochemistry"
+  bio              : "He/They | PhD candidate in computational electrochemistry"
   location         : "Oakland, CA"
   employer         : "UC Berkeley / LBNL"
   pubmed           :
