@@ -1,3 +1,11 @@
+emmet:
+  name: Emmet
+  description: |
+    Emmet is a toolkit of packages designed to build the Materials API. The Materials API is the specification of the Materials Project for defining and dissemenating "materials documents".
+  role: Developer
+  image: /images/emmet.png
+  url: https://github.com/materialsproject/emmet
+
 mpcat:
   name: MPcat
   description: |
