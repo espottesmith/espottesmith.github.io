@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Note: * = Equal Contribution
-
 <table class="table" style="border:0;">
 <tbody>
 	<tr>
@@ -25,10 +23,70 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				First-principles dataset of molecules relevant to magnesium-ion battery solid electrolyte interphase formation.
+				MR.Net: A Python Library for Analysis of Graph-Based Molecular Reaction Networks.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, and Kristin A.  Persson.
+				Aniruddh   Khanwale*, Hetal D.  Patel*, <b>Evan Walter Clark  Spotte-Smith</b>, Daniel   Barter, Ronald L.  Kam, Mingjian   Wen, Xiaowei   Xie, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				A Diverse Open Database of Calculated Molecular Properties Relevant to Solution-Phase Electrochemistry.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Jason M.  Munro, Matthew K.  Horton, Cody   O'Donnell, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Oxana   Andriuc*, Alexander   Epstein*, Maxwell   Venetos*, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Computational investigation of the reductive decomposition kinetics and thermodynamics for fluorinated alkoxyaluminate/borate salts in Mg-ion and Ca-ion batteries.
+			</span><br />
+			<span class="authors">
+				Xiaowei   Xie, Noel J.  Leon, David W.  Small, <b>Evan Walter Clark  Spotte-Smith</b>, Chen   Liao, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -49,26 +107,6 @@ Note: * = Equal Contribution
 			</span><br />
 			<span class="authors">
 				Thea B.  Petrocelli, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander   Epstein, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				Carbene Chemistry in the Lithium-Ion Battery Solid Electrolyte Interphase.
-			</span><br />
-			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Aniruddh   Khanwale, Daniel   Barter, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
