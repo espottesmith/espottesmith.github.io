@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Note: * = Equal Contribution
+
 <table class="table" style="border:0;">
 <tbody>
 	<tr>
