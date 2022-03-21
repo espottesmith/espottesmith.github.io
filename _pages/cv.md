@@ -59,16 +59,16 @@ Honors and Awards
   
 Leadership and Service
 ======
-* **CalACS College Application and Professional Support (CAPS)** (2020 - Present)
-  * Participate in weekly workshops with high school students to improve professional skills
-  * Develop long-term mentoring relationships with students from underprivileged backgrounds
-  * **Current role**: Mentor
 * **UC Berkeley Materials Science and Engineering Graduate Student Council** (2020 - Present)
   * Advocate to department administration and faculty for issues of importance to graduate students
   * Coordinate anti-racist reading groups in collaboration with UC Berkeley Chemical Engineering department
   * Organize events to build community among materials science graduate students
   * **Current role**: Vice-President
   * **Previous roles**: Social Chair
+* **CalACS College Application and Professional Support (CAPS)** (2020 - 2021)
+  * Participate in weekly workshops with high school students to improve professional skills
+  * Develop long-term mentoring relationships with students from underprivileged backgrounds
+  * **Previous roles**: Mentor
 * **Faculty Search Committee, UC Berkeley Department of Materials Science and Engineering** (2020, 2021)
   * Succeeded in hiring candidate for the position of Assistant Professor
   * **Current role**: Member
