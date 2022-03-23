@@ -125,10 +125,10 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/spottesmith_kam_towards_mechanistic_2022.pdf">Towards a Mechanistic Model of Solid-Electrolyte Interphase Formation and Evolution in Lithium-ion Batteries</a>.
+				<a href="/files/papers/barter_template_free_2022.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Ronald   Kam*, Daniel   Barter, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
+				Daniel   Barter*, <b>Evan Walter Clark  Spotte-Smith</b>*, Nikita S.  Redkar, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
 			<br />
@@ -145,12 +145,12 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/barter_template_free_2022.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
+				<a href="/files/papers/spottesmith_kam_towards_mechanistic_2022.pdf">Toward a Mechanistic Model of Solid-Electrolyte Interphase Formation and Evolution in Lithium-ion Batteries</a>.
 			</span><br />
 			<span class="authors">
-				Daniel   Barter*, <b>Evan Walter Clark  Spotte-Smith</b>*, Nikita S.  Redkar, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Ronald   Kam*, Daniel   Barter, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
+			<span class="venuetype"></span><span class="venue">ACS Energy Letters 7</span>.
 			<br />
 			<span class="links">
 			</span>
