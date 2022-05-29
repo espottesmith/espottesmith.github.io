@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 As part of my research, I develop scientific software, mostly aiming to solve
-problems related to computational chemistry, high-throughput computation, and
-computational reaction networks. Below are listed the main projects that I develop
+problems related to computational chemistry, high-throughput simulations, and
+chemical reaction networks. Below are listed the main projects that I develop
 or contribute to.
 
 <table class="softwaretab" style="border:0;">
