@@ -65,13 +65,13 @@ Leadership and Service
   * Organize events to build community among materials science graduate students
   * **Current role**: Vice-President
   * **Previous roles**: Social Chair
+* **Faculty Search Committee, UC Berkeley Department of Materials Science and Engineering** (2020, 2021, 2022)
+  * Succeeded in hiring candidate Xiaoyu (Rayne) Zheng for the position of Assistant Professor
+  * **Previous roles**: Member
 * **CalACS College Application and Professional Support (CAPS)** (2020 - 2021)
   * Participate in weekly workshops with high school students to improve professional skills
   * Develop long-term mentoring relationships with students from underprivileged backgrounds
   * **Previous roles**: Mentor
-* **Faculty Search Committee, UC Berkeley Department of Materials Science and Engineering** (2020, 2021)
-  * Succeeded in hiring candidate for the position of Assistant Professor
-  * **Current role**: Member
 * **Interstitials Mentorship Program** (2020)
   * Led peer-to-peer mentorship program for materials science community
   * **Previous roles**: Co-Director, Mentor
