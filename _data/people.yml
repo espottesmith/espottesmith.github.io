@@ -1,17 +1,8 @@
-rkam:
-  display_name: Ronald L. Kam
-  role: former_mentee
-  project: |
-    Stochastic analysis of early-stage solid electrolyte interphase formation in Li-ion batteries
-  current_position: |
-    PhD student, Materials Science and Engineering (Gerbrand Ceder Group), UC Berkeley
-  image: /images/ronald_kam.png
-
 akhanwale:
   display_name: Aniruddh Khanwale
   role: mentee
   project: |
-    Exploring carbene reactivity in lithium-ion battery electrolytes
+    Understanding the role of lithium in solution-phase reaction mechanisms
   current_position: |
     Senior, Materials Science and Engineering/Computer Science, UC Berkeley
   image: /images/aniruddh_khanwale.png
@@ -29,10 +20,28 @@ theap:
   display_name: Thea B. Petrocelli
   role: mentee
   project: |
-    Comparing ion-assisted solvent decomposition pathways in multivalent-ion batteries
+    Exploring salt decomposition mechanisms in Li-ion batteries
   current_position: |
     Junior, Materials Science and Engineering, UC Berkeley
   image: /images/thea_petrocelli.png
+
+lauraz:
+  display_name: Laura Zichi
+  role: mentee
+  project: |
+    Microkinetic modeling of solid electrolyte interphase formation at long time scales
+  current_position: |
+    Senior, Physics, University of Michigan
+  image: /images/laura_zichi.png
+
+rkam:
+  display_name: Ronald L. Kam
+  role: former_mentee
+  project: |
+    Stochastic analysis of early-stage solid electrolyte interphase formation in Li-ion batteries
+  current_position: |
+    PhD student, Materials Science and Engineering, UC Berkeley
+  image: /images/ronald_kam.png
 
 kristin:
   display_name: Kristin Aslaug Persson
