@@ -107,7 +107,7 @@ Note: * = Equal Contribution
 				Chemical Reaction Networks and Opportunities for Machine Learning.
 			</span><br />
 			<span class="authors">
-				Mingjian   Wen*, Samuel M.  Blau*,    \textbf{Evan Walter Clark Spotte-Smith}, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
+				Mingjian   Wen*, Samuel M.  Blau*, <b>Evan Walter Clark  Spotte-Smith</b>, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
