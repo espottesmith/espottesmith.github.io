@@ -13,9 +13,9 @@ A PDF version of my CV can be found [here](/files/evan_spotte-smith_cv.pdf).
 
 Education
 ======
-* **M.S./Ph.D. in Materials Science and Engineering, University of California, Berkeley** (2024, expected)
+* **Ph.D. in Materials Science and Engineering, University of California, Berkeley** (2024, expected)
   * Advisor: Professor Kristin Aslaug Persson
-  * Thesis: "Understanding Solid Electrolyte Interphase Formation Mechanisms in Mg-ion Batteries"
+* **M.S. in Materials Science and Engineering, University of California, Berkeley** (2021)
 * **B.S. in Materials Science and Engineering, Columbia University** (2019)
   * Minor: Sustainable Engineering
 
@@ -24,7 +24,7 @@ Research experience
 * **Graduate Student Researcher, UC Berkeley/LBNL** (2019 - present)
   * Advisor: Kristin Aslaug Persson
   * Identify mechanistic origins of solid electrolyte interphase (SEI) formation in Li-ion and Mg-ion batteries.
-  * Construct chemical reaction networks based on high-throughput density functional theory (DFT) to reveal optimal reaction pathways.
+  * Explore chemical reaction networks based on high-throughput density functional theory (DFT) calculations.
   * Observe and analyze reactive competition through kinetic Monte Carlo (kMC) simulations.
 * **Undergraduate Student Researcher, LBNL** (2018-2019)
   * Advisor: Anubhav Jain
@@ -39,6 +39,7 @@ Teaching experience
 ======
 * **University of California Berkeley** (2022)
   * Graduate Student Instructor, "General Chemistry and Quantitative Analysis"
+  * Evaluation: median 7.0/7.0; mean 6.5/7.0
 * **Materials Project Workshop** (2020)
   * Instructor, "Pymatgen Foundations"
 * **Columbia University** (2018)
@@ -47,6 +48,7 @@ Teaching experience
 Honors and Awards
 ======
 
+* **Battery Student Slam Winner**, 241st Electrochemical Society Meeting (2022)
 * **Philomathia Graduate Student Fellowship**, Kavli Energy Nanoscience Institute (2022)
 * **Honorable Mention**, NSF Graduate Research Fellowship Program (2020)
 * **Honorable Mention**, NSF Graduate Research Fellowship Program (2019)
@@ -61,7 +63,7 @@ Leadership and Service
 ======
 * **UC Berkeley Materials Science and Engineering Graduate Student Council** (2020 - Present)
   * Advocate to department administration and faculty for issues of importance to graduate students
-  * Coordinate anti-racist reading groups in collaboration with UC Berkeley Chemical Engineering department
+  * Coordinate anti-racist reading groups in collaboration with UC Berkeley College of Chemistry
   * Organize events to build community among materials science graduate students
   * **Current role**: Vice-President
   * **Previous roles**: Social Chair

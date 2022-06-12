@@ -48,7 +48,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Ronald L.  Kam, Daniel   Barter, Julian   Self, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted to 21st International Meeting on Lithium Batteries (<b>Invited Poster</b>)</span>.
+			<span class="venuetype"></span><span class="venue">21st International Meeting on Lithium Batteries (<b>Invited Poster</b>)</span>.
 			<br />
 			<span class="links">
 			</span>

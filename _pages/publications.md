@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 Note: * = Equal Contribution
 
 <table class="table" style="border:0;">
@@ -21,26 +20,6 @@ Note: * = Equal Contribution
         
         
         
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				MR.Net: A Python Library for Analysis of Graph-Based Molecular Reaction Networks.
-			</span><br />
-			<span class="authors">
-				Aniruddh   Khanwale*, Hetal D.  Patel*, <b>Evan Walter Clark  Spotte-Smith</b>, Daniel   Barter, Ronald L.  Kam, Mingjian   Wen, Xiaowei   Xie, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
 			</span>
 		</td>
 		<td class="publication">
@@ -85,6 +64,26 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				A Comparative Study of Catalytic Ion-Assisted Solvent Decomposition in Multivalent-Ion Batteries.
+			</span><br />
+			<span class="authors">
+				Thea B.  Petrocelli, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander   Epstein, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Computational investigation of the reductive decomposition kinetics and thermodynamics for fluorinated alkoxyaluminate/borate salts in Mg-ion and Ca-ion batteries.
 			</span><br />
 			<span class="authors">
@@ -105,10 +104,10 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				A Comparative Study of Catalytic Ion-Assisted Solvent Decomposition in Multivalent-Ion Batteries.
+				Chemical Reaction Networks and Opportunities for Machine Learning.
 			</span><br />
 			<span class="authors">
-				Thea B.  Petrocelli, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander   Epstein, and Kristin A.  Persson.
+				Mingjian   Wen*, Samuel M.  Blau*,    \textbf{Evan Walter Clark Spotte-Smith}, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
