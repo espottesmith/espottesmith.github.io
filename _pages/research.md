@@ -43,7 +43,7 @@ Recently, there has been growing interest in chemical reaction networks (CRNs), 
 allowing for efficient exploration of even very complex reactive spaces.<br>
 My colleagues and I develop new methods for constructing and analyzing CRNs, with the goal of automatically revealing the inner workings of complex chemical processes
 without prior domain knowledge. We have developed an approach that uses graph theory to <a href="/files/papers/blau_chemically_2021.pdf">rigorously identify low-cost reaction pathways</a> in CRNs.
-More recently, we have developed <a href="/files/papers/barter_template_free_2022.pdf">stochastic methods</a> to not only identify pathways to known species of interest, but also to automatically identify the natural products of
+More recently, we have developed <a href="/files/papers/barter_predictive_stochastic_2022.pdf">stochastic methods</a> to not only identify pathways to known species of interest, but also to automatically identify the natural products of
 CRNs using simple heuristics. With this method, it is now possible to easily and rapidly generate hypotheses for experimental characterization and in-depth mechanistic studies
 using only computed reaction thermodynamics.<br>
 As part of ongoing collaborations within JCESR and with the Blau Group at LBNL, I continue to build on the successes of these methods and devise new ways

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Note: * = Equal Contribution
+Note: * = equal contribution
 
 <table class="table" style="border:0;">
 <tbody>
@@ -21,26 +21,6 @@ Note: * = Equal Contribution
         
         
         
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				A Diverse Open Database of Calculated Molecular Properties Relevant to Solution-Phase Electrochemistry.
-			</span><br />
-			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Jason M.  Munro, Matthew K.  Horton, Cody   O'Donnell, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
 			</span>
 		</td>
 		<td class="publication">
@@ -108,9 +88,9 @@ Note: * = Equal Contribution
 				Chemical Reaction Networks and Opportunities for Machine Learning.
 			</span><br />
 			<span class="authors">
-				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
+				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -125,10 +105,10 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/barter_template_free_2022.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
+				<a href="/files/papers/barter_predictive_stochastic_2022.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
 			</span><br />
 			<span class="authors">
-				Daniel   Barter*, <b>Evan Walter Clark  Spotte-Smith</b>*, Nikita S.  Redkar, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Daniel   Barter*, Nikita S.  Redkar, Aniruddh   Khanwale, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
 			<br />
