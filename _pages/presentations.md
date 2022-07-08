@@ -46,7 +46,7 @@ author_profile: true
 				<a href="https://www.youtube.com/watch?v=wZuAX0G5cXE">Towards a Mechanistic Explanation for Solid Electrolyte Interphase Formation and Evolution in Lithium-Ion Batteries</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Ronald L.  Kam, Daniel   Barter, Julian   Self, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Ronald L.  Kam, Daniel   Barter, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">21st International Meeting on Lithium Batteries (<b>Invited Poster</b>)</span>.
 			<br />
