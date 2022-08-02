@@ -1,3 +1,12 @@
+lauraz:
+  display_name: Laura Zichi
+  role: mentee
+  project: |
+    Microkinetic modeling of solid electrolyte interphase formation at long time scales
+  current_position: |
+    Senior, Physics, University of Michigan
+  image: /images/laura_zichi.png
+
 akhanwale:
   display_name: Aniruddh Khanwale
   role: mentee
@@ -7,32 +16,23 @@ akhanwale:
     Senior, Materials Science and Engineering/Computer Science, UC Berkeley
   image: /images/aniruddh_khanwale.png
 
-nredkar:
-  display_name: Nikita S. Redkar
-  role: mentee
-  project: |
-    Learning electrochemical reaction products using natural language processing
-  current_position: |
-    Senior, Chemical Engineering, UC Berkeley
-  image: /images/nikita_redkar.png
-
 theap:
   display_name: Thea B. Petrocelli
-  role: mentee
+  role: former_mentee
   project: |
     Exploring salt decomposition mechanisms in Li-ion batteries
   current_position: |
     Junior, Materials Science and Engineering, UC Berkeley
   image: /images/thea_petrocelli.png
 
-lauraz:
-  display_name: Laura Zichi
-  role: mentee
+nredkar:
+  display_name: Nikita S. Redkar
+  role: former_mentee
   project: |
-    Microkinetic modeling of solid electrolyte interphase formation at long time scales
+    Learning electrochemical reaction products using natural language processing
   current_position: |
-    Senior, Physics, University of Michigan
-  image: /images/laura_zichi.png
+    Senior, Chemical Engineering, UC Berkeley
+  image: /images/nikita_redkar.png
 
 rkam:
   display_name: Ronald L. Kam
@@ -47,7 +47,7 @@ kristin:
   display_name: Kristin Aslaug Persson
   role: advisor
   current_position: |
-    Professor, UC Berkeley; Director, Molecular Foundry; Director, Materials Project
+    Daniel M. Tellep Distinguished Professor, UC Berkeley; Director, Molecular Foundry; Director, Materials Project
   image: /images/kristin_persson.png
 
 sblau:

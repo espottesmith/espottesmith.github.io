@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Note: * = equal contribution
+Note: * = Equal Contribution
 
 <table class="table" style="border:0;">
 <tbody>
@@ -29,26 +29,6 @@ Note: * = equal contribution
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Oxana   Andriuc*, Alexander   Epstein*, Maxwell   Venetos*, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				A Comparative Study of Catalytic Ion-Assisted Solvent Decomposition in Multivalent-Ion Batteries.
-			</span><br />
-			<span class="authors">
-				Thea B.  Petrocelli, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander   Epstein, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
