@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Note: * = Equal Contribution
-
 <table class="table" style="border:0;">
 <tbody>
 	<tr>
@@ -45,12 +43,12 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Computational investigation of the reductive decomposition kinetics and thermodynamics for fluorinated alkoxyaluminate/borate salts in Mg-ion and Ca-ion batteries.
+				Chemical Reaction Networks and Opportunities for Machine Learning.
 			</span><br />
 			<span class="authors">
-				Xiaowei   Xie, Noel J.  Leon, David W.  Small, <b>Evan Walter Clark  Spotte-Smith</b>, Chen   Liao, and Kristin A.  Persson.
+				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -65,12 +63,12 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Chemical Reaction Networks and Opportunities for Machine Learning.
+				<a href="/files/papers/xie_reductive_decomposition_2022.pdf">The reductive decomposition kinetics and thermodynamics that govern the design of fluorinated alkoxyaluminate/borate salts for Mg-ion and Ca-ion batteries</a>.
 			</span><br />
 			<span class="authors">
-				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
+				Xiaowei   Xie, Noel J.  Leon, David W.  Small,    \textbf{Evan Walter Clark Spotte-Smith}, Chen   Liao, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
 			<br />
 			<span class="links">
 			</span>
