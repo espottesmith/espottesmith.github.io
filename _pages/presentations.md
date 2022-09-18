@@ -28,7 +28,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Ronald L.  Kam, Daniel   Barter, Julian   Self, Xiaowei   Xie, Tingzheng   Hou, Shyam   Dwaraknath, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted to 2022 Gordon Research Conference in Electrochemistry</span>.
+			<span class="venuetype"></span><span class="venue">2022 Gordon Research Conference in Electrochemistry</span>.
 			<br />
 			<span class="links">
 			</span>

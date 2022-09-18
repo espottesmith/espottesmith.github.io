@@ -50,8 +50,7 @@ Honors and Awards
 
 * **Battery Student Slam Winner**, 241st Electrochemical Society Meeting (2022)
 * **Philomathia Graduate Student Fellowship**, Kavli Energy Nanoscience Institute (2022)
-* **Honorable Mention**, NSF Graduate Research Fellowship Program (2020)
-* **Honorable Mention**, NSF Graduate Research Fellowship Program (2019)
+* **Honorable Mention**, NSF Graduate Research Fellowship Program (2019, 2020)
 * **Frank McQuiston Fellowship**, UC Berkeley Department of Materials Science and Engineering (2019)
 * **Clarendon Fund Scholarship**, University of Oxford (2019, declined)
 * **Magna Cum Laude**, Columbia University (2019)
@@ -61,6 +60,10 @@ Honors and Awards
   
 Leadership and Service
 ======
+* **UC Berkeley Graduate Assembly** (2022 - Present)
+  * Advocate on behalf of materials science graduate students
+  * Develop policies and legislation to promote the well-being of UC Berkeley graduate students
+  * **Current Role**: Delegate
 * **UC Berkeley Materials Science and Engineering Graduate Student Council** (2020 - Present)
   * Advocate to department administration and faculty for issues of importance to graduate students
   * Coordinate anti-racist reading groups in collaboration with UC Berkeley College of Chemistry
@@ -77,7 +80,7 @@ Leadership and Service
 * **Interstitials Mentorship Program** (2020)
   * Led peer-to-peer mentorship program for materials science community
   * **Previous roles**: Co-Director, Mentor
-* **Columbia University Engineers Without Borders (CU-EWB)** (2015 - 2018)
+* **Columbia University Engineers Without Borders (CU-EWB)** (2015 - 2019)
   * Designed and implemented solar micro-grids for rural communities in the Teso Sub-Region of Uganda
   * **Previous roles**: Engineering Mentor, President, Program Manager, Director of Grants, Program Liaison, Director of Operations
 * **Columbia Educational Simulations (CESIMS)** (2016 - 2018)

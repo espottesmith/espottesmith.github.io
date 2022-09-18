@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Note: * = Equal Contribution
+
 <table class="table" style="border:0;">
 <tbody>
 	<tr>
@@ -19,6 +21,26 @@ author_profile: true
         
         
         
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				An Open and Accessible Database for Computational Molecular Chemistry.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Orion   Cohen, Ryan   Kingsbury, Jason M.  Munro, Rishabh   Guha, Matthew K.  Horton, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
 			</span>
 		</td>
 		<td class="publication">
@@ -46,7 +68,7 @@ author_profile: true
 				Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Oxana   Andriuc*, Alexander   Epstein*, Maxwell   Venetos*, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander   Epstein*, Maxwell   Venetos*, Oxana   Andriuc, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -66,7 +88,7 @@ author_profile: true
 				Chemical Reaction Networks and Opportunities for Machine Learning.
 			</span><br />
 			<span class="authors">
-				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>*, Samuel M.  Blau*, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
+				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
@@ -88,7 +110,7 @@ author_profile: true
 			<span class="authors">
 				Xiaowei   Xie, Noel J.  Leon, David W.  Small, <b>Evan Walter Clark  Spotte-Smith</b>, Chen   Liao, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -108,7 +130,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Daniel   Barter*, Nikita S.  Redkar, Aniruddh   Khanwale, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
