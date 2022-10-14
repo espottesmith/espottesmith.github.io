@@ -23,7 +23,7 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				everaging big data and chemical reaction networks to explore and explain electrochemistry.
+				Leveraging big data and chemical reaction networks to explore and explain electrochemistry.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>.
