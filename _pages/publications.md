@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Note: * = Equal Contribution
-
 <table class="table" style="border:0;">
 <tbody>
 	<tr>
@@ -45,10 +43,10 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Elementary Decomposition Mechanisms of Lithium Hexafluorophosphate in Battery Electrolytes and Interphases.
+				Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Thea B.  Petrocelli*, Hetal D.  Patel, Samuel M.  Blau, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander   Epstein*, Maxwell   Venetos*, Oxana   Andriuc, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -65,12 +63,12 @@ Note: * = Equal Contribution
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics.
+				<a href="/files/papers/spottesmith_petrocelli_elementary_decomposition_2022.pdf">Elementary Decomposition Mechanisms of Lithium Hexafluorophosphate in Battery Electrolytes and Interphases</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander   Epstein*, Maxwell   Venetos*, Oxana   Andriuc, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Thea Bee  Petrocelli*, Hetal D.  Patel, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
