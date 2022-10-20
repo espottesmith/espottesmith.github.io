@@ -43,6 +43,26 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Chemical Reaction Networks Explain Gas Evolution Mechanisms In Mg-Ion Batteries.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Chen   Liao, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics.
 			</span><br />
 			<span class="authors">

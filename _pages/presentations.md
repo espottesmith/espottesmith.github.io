@@ -23,6 +23,26 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Leveraging quantum chemistry and reaction networks to explore electrochemical cascades.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Pitzer Center for Theoretical Chemistry Seminar Series</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Leveraging big data and chemical reaction networks to explore and explain electrochemistry.
 			</span><br />
 			<span class="authors">
