@@ -11,7 +11,7 @@ author_profile: true
 		<td>
 			<span class="date">
 				
-				<big><strong>2022</strong></big><br />
+				<big><strong>2023</strong></big><br />
 				
         
 				
@@ -83,32 +83,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/barter_predictive_stochastic_2022.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
-			</span><br />
-			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Daniel   Barter*, Nikita S.  Redkar, Aniruddh   Khanwale, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Digital Discovery</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				<a href="/files/papers/spottesmith_petrocelli_elementary_decomposition_2022.pdf">Elementary Decomposition Mechanisms of Lithium Hexafluorophosphate in Battery Electrolytes and Interphases</a>.
+				<a href="/files/papers/spottesmith_petrocelli_elementary_decomposition_2023.pdf">Elementary Decomposition Mechanisms of Lithium Hexafluorophosphate in Battery Electrolytes and Interphases</a>.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Thea Bee  Petrocelli*, Hetal D.  Patel, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in ACS Energy Letters</span>.
+			<span class="venuetype"></span><span class="venue">ACS Energy Letters 8</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -118,7 +98,14 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				<big><strong>2022</strong></big><br />
 				
+        
+				
+				
+        
+        
+        
 			</span>
 		</td>
 		<td class="publication">
@@ -129,6 +116,26 @@ author_profile: true
 				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Accepted in Nature Computational Science</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="/files/papers/barter_predictive_stochastic_2022.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Daniel   Barter*, Nikita S.  Redkar, Aniruddh   Khanwale, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Digital Discovery</span>.
 			<br />
 			<span class="links">
 			</span>
