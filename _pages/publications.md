@@ -66,9 +66,29 @@ author_profile: true
 				Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander   Epstein*, Maxwell   Venetos*, Oxana   Andriuc, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander   Epstein*, Maxwell   Venetos, Oxana   Andriuc, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Chemical Reaction Networks and Opportunities for Machine Learning.
+			</span><br />
+			<span class="authors">
+				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Accepted in Nature Computational Science</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -98,39 +118,12 @@ author_profile: true
 		<td>
 			<span class="date">
 				
-				<big><strong>2022</strong></big><br />
-				
-        
-				
-				
-        
-        
-        
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				Chemical Reaction Networks and Opportunities for Machine Learning.
-			</span><br />
-			<span class="authors">
-				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Nature Computational Science</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
 				
 			</span>
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/barter_predictive_stochastic_2022.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
+				<a href="/files/papers/barter_predictive_stochastic_2023.pdf">Predictive stochastic analysis of massive filter-based electrochemical reaction networks</a>.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Daniel   Barter*, Nikita S.  Redkar, Aniruddh   Khanwale, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
@@ -145,7 +138,14 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				<big><strong>2022</strong></big><br />
 				
+        
+				
+				
+        
+        
+        
 			</span>
 		</td>
 		<td class="publication">
