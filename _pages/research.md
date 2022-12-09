@@ -44,7 +44,7 @@ allowing for efficient exploration of even very complex reactive spaces.<br>
 However, CRNs have not previously been applied to study electrochemistry. In part, this is because electrochemical reaction mechanisms are not well understood, making methods based on chemical intuition or reaction templates intractable. 
 My colleagues and I develop new methods for constructing and analyzing (electro)chemical CRNs, with the goal of automatically revealing the inner workings of complex chemical processes
 without prior domain knowledge and without relying heavily on chemical intuition.
-Most recently, we have developed <a href="/files/papers/barter_predictive_stochastic_2022.pdf">stochastic methods</a> to not only identify pathways to known species of interest, but also to automatically identify the natural products of
+Most recently, we have developed <a href="/files/papers/barter_predictive_stochastic_2023.pdf">stochastic methods</a> to not only identify pathways to known species of interest, but also to automatically identify the natural products of
 CRNs using simple heuristics. With this method, it is now possible to easily and rapidly generate hypotheses for experimental characterization and in-depth mechanistic studies of complex reactive processes (such as those in Li-ion batteries)
 using only computed reaction thermodynamics.<br>
 As part of ongoing collaborations within JCESR and with the Blau Group at LBNL, I continue to build on the successes of these methods and devise new ways
