@@ -46,7 +46,7 @@ author_profile: true
 				Chemical Reaction Networks Explain Gas Evolution Mechanisms In Mg-Ion Batteries.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Chen   Liao, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Nikita S.  Redkar, Chen   Liao, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -83,12 +83,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Chemical Reaction Networks and Opportunities for Machine Learning.
+				<a href="/files/papers/wen_chemical_reaction_2023.pdf">Chemical Reaction Networks and Opportunities for Machine Learning</a>.
 			</span><br />
 			<span class="authors">
 				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Nature Computational Science</span>.
+			<span class="venuetype"></span><span class="venue">Nature Computational Science</span>.
 			<br />
 			<span class="links">
 			</span>

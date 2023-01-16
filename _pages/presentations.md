@@ -11,6 +11,33 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				<big><strong>2023</strong></big><br />
+				
+        
+				
+				
+        
+        
+        
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Revealing the decomposition mechanisms of lithium hexafluorophosphate in battery electrolytes and interphases by first-principles simulations.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Thea Bee  Petrocelli, Hetal D.  Patel, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">ACS Spring 2023 Meeting</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				<big><strong>2022</strong></big><br />
 				
         
@@ -48,7 +75,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">ChemE Future Faculty Seminar Series (<b>Invited Talk</b>)</span>.
+			<span class="venuetype"></span><span class="venue">ChemE Future Faculty Seminar Series</span>.
 			<br />
 			<span class="links">
 			</span>
