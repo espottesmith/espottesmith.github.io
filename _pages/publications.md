@@ -63,12 +63,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics.
+				<a href="/files/papers/epstein_assessing_accuracy.pdf">Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander   Epstein*, Maxwell   Venetos, Oxana   Andriuc, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander Rizzolo  Epstein*, Maxwell   Venetos, Oxana   Andriuc, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
 			<br />
 			<span class="links">
 			</span>
