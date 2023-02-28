@@ -38,6 +38,26 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Explaining Battery Electrolyte Decomposition With Chemical Reaction Networks.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Daniel   Barter, Ronald L.  Kam, Chen   Liao, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Berkeley Energy \& Resources Collaborative Energy Summit</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				<big><strong>2022</strong></big><br />
 				
         

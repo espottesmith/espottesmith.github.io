@@ -58,8 +58,23 @@ Honors and Awards
 * **Francis B. F. Rhodes Prize**, Columbia University (2019)
 * **King's Crown Leadership Excellence Award for Civic Responsibility**, Columbia University (2019)
   
+Contributed Reviews
+======
+
+* ACS Energy Letters
+* The Journal of Open Source Software
+
 Leadership and Service
 ======
+
+* **UC Berkeley Course Materials and Services Fees Committee** (2022 - Present)
+  * Review policies related to fees for UC Berkeley courses
+  * Advise the Chancellor regarding appropriate costs and fees
+  * **Current Role**: Graduate Student Representative
+* **Chancellor's Advisory Committee on the LGBTQ+ Communities at Cal** (2022 - Present)
+  * Advise UC Berkeley administration on the needs of queer and trans members of the Berkeley community
+  * Review campus and UC system policies as they relate to LGBTQ+ campus members
+  * **Current Role**: Graduate Student Representative
 * **UC Berkeley Graduate Assembly** (2022 - Present)
   * Advocate on behalf of materials science graduate students
   * Develop policies and legislation to promote the well-being of UC Berkeley graduate students

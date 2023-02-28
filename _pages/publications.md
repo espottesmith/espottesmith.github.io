@@ -43,12 +43,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Chemical Reaction Networks Explain Gas Evolution Mechanisms In Mg-Ion Batteries.
+				<a href="/files/papers/spottesmith_chemical_reaction_2023.pdf">Chemical Reaction Networks Explain Gas Evolution Mechanisms In Mg-Ion Batteries</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Nikita S.  Redkar, Chen   Liao, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Nathan T.  Hahn, Nikita S.  Redkar, Kevin R.  Zavadil, Chen   Liao, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -63,7 +63,7 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/epstein_assessing_accuracy.pdf">Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics</a>.
+				<a href="/files/papers/epstein_assessing_accuracy_2023.pdf">Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics</a>.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander Rizzolo  Epstein*, Maxwell   Venetos, Oxana   Andriuc, and Kristin A.  Persson.
