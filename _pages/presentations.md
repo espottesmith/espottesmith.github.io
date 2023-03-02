@@ -48,7 +48,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Daniel   Barter, Ronald L.  Kam, Chen   Liao, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Berkeley Energy \& Resources Collaborative Energy Summit</span>.
+			<span class="venuetype"></span><span class="venue">Berkeley Energy & Resources Collaborative Energy Summit</span>.
 			<br />
 			<span class="links">
 			</span>
