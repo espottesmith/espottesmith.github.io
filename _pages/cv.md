@@ -48,6 +48,7 @@ Teaching experience
 Honors and Awards
 ======
 
+* **1st Prize, Innovation Expo**, Berkeley Energy & Resources Collaborative Energy Summit (2023)
 * **Battery Student Slam Winner**, 241st Electrochemical Society Meeting (2022)
 * **Philomathia Graduate Student Fellowship**, Kavli Energy Nanoscience Institute (2022)
 * **Honorable Mention**, NSF Graduate Research Fellowship Program (2019, 2020)
