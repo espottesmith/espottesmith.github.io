@@ -59,11 +59,24 @@ Honors and Awards
 * **Francis B. F. Rhodes Prize**, Columbia University (2019)
 * **King's Crown Leadership Excellence Award for Civic Responsibility**, Columbia University (2019)
   
+Resources and Funding
+======
+
+* **Schrodinger Inc.** (2020 - 2023)
+  * Award type: Partnership
+  * Total award amount: In kind, valued at $3,586,000
+* **High-Performance Computing, National Renewable Energy Laboratory** (2021 - 2023)
+  * Award type: High-performance computing allocation
+  * Total award amount: 5,248,000 node-hours
+* **Energy Research Computing Allocations Process (ERCAP), National Energy Research Supercomputing Center (NERSC)** (2020 - 2023)
+  * Award type: High-performance computing allocation
+  * Total award amount: 325,000 node-hours
+
 Contributed Reviews
 ======
 
-* ACS Energy Letters
-* The Journal of Open Source Software
+* 2023: ACS Nano, npj Computational Materials
+* 2022: ACS Energy Letters, The Journal of Open Source Software
 
 Leadership and Service
 ======
