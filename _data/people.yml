@@ -1,10 +1,10 @@
 lauraz:
   display_name: Laura Zichi
-  role: mentee
+  role: former_mentee
   project: |
     Microkinetic modeling of solid electrolyte interphase formation at long time scales
   current_position: |
-    Senior, Physics, University of Michigan
+    PhD student, Harvard University
   image: /images/laura_zichi.png
 
 akhanwale:
@@ -13,7 +13,7 @@ akhanwale:
   project: |
     Calculation of charge transfer rates through battery interphases
   current_position: |
-    Senior, Materials Science and Engineering/Computer Science, UC Berkeley
+    Masters Student, UC Berkeley
   image: /images/aniruddh_khanwale.png
 
 theap:
@@ -31,7 +31,7 @@ nredkar:
   project: |
     Learning electrochemical reaction products using natural language processing
   current_position: |
-    Senior, Chemical Engineering, UC Berkeley
+    PhD student, Brown University
   image: /images/nikita_redkar.png
 
 rkam:
@@ -40,7 +40,7 @@ rkam:
   project: |
     Stochastic analysis of early-stage solid electrolyte interphase formation in Li-ion batteries
   current_position: |
-    PhD student, Materials Science and Engineering, UC Berkeley
+    PhD student, UC Berkeley
   image: /images/ronald_kam.png
 
 kristin:

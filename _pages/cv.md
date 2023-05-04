@@ -23,17 +23,17 @@ Research experience
 ======
 * **Graduate Student Researcher, UC Berkeley/LBNL** (2019 - present)
   * Advisor: Kristin Aslaug Persson
-  * Identify mechanistic origins of solid electrolyte interphase (SEI) formation in Li-ion and Mg-ion batteries.
-  * Explore chemical reaction networks based on high-throughput density functional theory (DFT) calculations.
-  * Observe and analyze reactive competition through kinetic Monte Carlo (kMC) simulations.
+  * Construct and manage open datasets of molecular properties based on density functional theory (DFT).
+  * Develop methods to explore and analyze chemical reaction networks.
+  * Explain electrolyte degradation, gas evolution, and interphase formation in Li-ion and Mg-ion batteries.
 * **Undergraduate Student Researcher, LBNL** (2018-2019)
   * Advisor: Anubhav Jain
   * Performed computational screening studies of Diels-Alder reactions for liquid-phase thermal energy storage.
   * Using DFT, identified a reaction leading to one of the highest specific heat capacities of any aqueous thermal fluid.
 * **Lead Undergraduate Researcher, Columbia University** (2016-2019)
   * Advisor: Irving P. Herman
-  * Studied nanoparticle self-assembly at liquid-liquid and liquid-air interfaces using time-resolved and space-resolvedin situsynchrotron small angle x-ray scattering (SAXS).
-  * Developed a novel cell architecture to improve SAXS signal and revealed an unexpected dominant mechanism driving self-assembly kinetics.
+  * Developed a sample cell architecture to improve small angle x-ray scattering signal from liquid interfaces.
+  * Revealed an unexpected transport mechanism controlling nanoparticle self-assembly kinetics.
   
 Teaching experience
 ======

@@ -23,10 +23,10 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				An Open and Accessible Database for Computational Molecular Chemistry.
+				Continuum-level modeling of Li-ion battery SEI by upscaling atomistically informed reaction mechanisms.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Orion   Cohen, Ryan   Kingsbury, Jason M.  Munro, Rishabh   Guha, Matthew K.  Horton, and Kristin A.  Persson.
+				Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Ankit   Verma, Hetal D.  Patel, Kar   Fink, Bertrand J. Tremolet Villers, Maxwell C.  Schulze, Samuel M.  Blau, Kandler A.  Smith, Kristin A.  Persson, and Andrew M.  Colclasure.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -43,12 +43,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/spottesmith_chemical_reaction_2023.pdf">Chemical Reaction Networks Explain Gas Evolution Mechanisms In Mg-Ion Batteries</a>.
+				Rich and accessible molecular properties integrated in the Materials Project database.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Nathan T.  Hahn, Nikita S.  Redkar, Kevin R.  Zavadil, Chen   Liao, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Orion   Cohen, Samuel M.  Blau, Jason M.  Munro, Ryan   Kingsbury, Rishabh   Guha, Hetal D.  Patel, Sudarshan   Vijay, Ruoxi   Yang, Patrick   Huck, Matthew K.  Horton, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -68,7 +68,27 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander Rizzolo  Epstein*, Maxwell   Venetos, Oxana   Andriuc, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">ChemRxiv</span>.
+			<span class="venuetype"></span><span class="venue">Accepted in Journal of Chemical Theory and Computation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="/files/papers/spottesmith_chemical_reaction_2023.pdf">Chemical Reaction Networks Explain Gas Evolution Mechanisms In Mg-Ion Batteries</a>.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Nathan T.  Hahn, Nikita S.  Redkar, Kevin R.  Zavadil, Chen   Liao, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Accepted in Journal of the American Chemical Society</span>.
 			<br />
 			<span class="links">
 			</span>
