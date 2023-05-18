@@ -63,26 +63,6 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/epstein_assessing_accuracy_2023.pdf">Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics</a>.
-			</span><br />
-			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander Rizzolo  Epstein*, Maxwell   Venetos, Oxana   Andriuc, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Journal of Chemical Theory and Computation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				<a href="/files/papers/spottesmith_chemical_reaction_2023.pdf">Chemical Reaction Networks Explain Gas Evolution Mechanisms In Mg-Ion Batteries</a>.
 			</span><br />
 			<span class="authors">
@@ -103,12 +83,32 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				<a href="/files/papers/epstein_assessing_accuracy_2023.pdf">Assessing the Accuracy of Density Functional Approximations for Predicting Hydrolysis Reaction Kinetics</a>.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander Rizzolo  Epstein*, Maxwell   Venetos, Oxana   Andriuc, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Journal of Chemical Theory and Computation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				<a href="/files/papers/wen_chemical_reaction_2023.pdf">Chemical Reaction Networks and Opportunities for Machine Learning</a>.
 			</span><br />
 			<span class="authors">
 				Mingjian   Wen, <b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Matthew J.  McDermott, Aditi   Krishnapriyan, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Nature Computational Science</span>.
+			<span class="venuetype"></span><span class="venue">Nature Computational Science 3</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -128,7 +128,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Thea Bee  Petrocelli*, Hetal D.  Patel, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">ACS Energy Letters 8</span>.
+			<span class="venuetype"></span><span class="venue">ACS Energy Letters 8(1)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -148,7 +148,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Daniel   Barter*, Nikita S.  Redkar, Aniruddh   Khanwale, Shyam   Dwaraknath, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Digital Discovery</span>.
+			<span class="venuetype"></span><span class="venue">Digital Discovery 2(123)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -175,7 +175,7 @@ author_profile: true
 			<span class="authors">
 				Xiaowei   Xie, Noel J.  Leon, David W.  Small, <b>Evan Walter Clark  Spotte-Smith</b>, Chen   Liao, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Journal of Physical Chemistry C</span>.
+			<span class="venuetype"></span><span class="venue">Journal of Physical Chemistry C 126(49)</span>.
 			<br />
 			<span class="links">
 			</span>
