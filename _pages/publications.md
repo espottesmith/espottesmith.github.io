@@ -23,10 +23,10 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Continuum-level modeling of Li-ion battery SEI by upscaling atomistically informed reaction mechanisms.
+				Rich and accessible molecular properties integrated in the Materials Project database.
 			</span><br />
 			<span class="authors">
-				Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Ankit   Verma, Hetal D.  Patel, Kar   Fink, Bertrand J. Tremolet Villers, Maxwell C.  Schulze, Samuel M.  Blau, Kandler A.  Smith, Kristin A.  Persson, and Andrew M.  Colclasure.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Orion   Cohen, Samuel M.  Blau, Jason M.  Munro, Ryan   Kingsbury, Rishabh   Guha, Hetal D.  Patel, Sudarshan   Vijay, Ruoxi   Yang, Patrick   Huck, Matthew K.  Horton, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -43,12 +43,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Rich and accessible molecular properties integrated in the Materials Project database.
+				<a href="/files/papers/weddle_continuum_level_2023.pdf">Continuum-level modeling of Li-ion battery SEI by upscaling atomistically informed reaction mechanisms</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Orion   Cohen, Samuel M.  Blau, Jason M.  Munro, Ryan   Kingsbury, Rishabh   Guha, Hetal D.  Patel, Sudarshan   Vijay, Ruoxi   Yang, Patrick   Huck, Matthew K.  Horton, and Kristin A.  Persson.
+				Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Ankit   Verma, Hetal D.  Patel, Kar   Fink, Bertrand J. Tremolet Villers, Maxwell C.  Schulze, Samuel M.  Blau, Kandler A.  Smith, Kristin A.  Persson, and Andrew M.  Colclasure.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
