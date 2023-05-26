@@ -68,7 +68,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Nathan T.  Hahn, Nikita S.  Redkar, Kevin R.  Zavadil, Chen   Liao, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Journal of the American Chemical Society</span>.
+			<span class="venuetype"></span><span class="venue">Journal of the American Chemical Society</span>.
 			<br />
 			<span class="links">
 			</span>
