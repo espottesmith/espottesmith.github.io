@@ -26,7 +26,7 @@ author_profile: true
 				MPcules: an open and accessible database of molecular properties in the Materials Project.
 			</span><br />
 			<span class="authors">
-				Evan Spotte-Smith  Spotte-Smith, Orion   Cohen, Samuel M.  Blau, Jason M.  Munro, Ryan   Kingsbury, Rishabh D.  Guha, Hetal D.  Patel, Sudarshan   Vijay, Ruoxi   Yang, Patrick   Huck, Matthew K.  Horton, and Kristin A.  Persson.
+				Evan Walter Clark Spotte-Smith, Orion   Cohen, Samuel M.  Blau, Jason M.  Munro, Ryan   Kingsbury, Rishabh D.  Guha, Hetal D.  Patel, Sudarshan   Vijay, Ruoxi   Yang, Patrick   Huck, Matthew K.  Horton, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">ACS Fall 2023 Meeting</span>.
 			<br />
