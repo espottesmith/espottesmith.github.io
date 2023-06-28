@@ -21,19 +21,22 @@ Education
 
 Research experience
 ======
-* **Graduate Student Researcher, UC Berkeley/LBNL** (2019 - present)
+* **Graduate Student Researcher, UC Berkeley/LBNL** (2019 - 2024)
   * Advisor: Kristin Aslaug Persson
-  * Construct and manage open datasets of molecular properties based on density functional theory (DFT).
-  * Develop methods to explore and analyze chemical reaction networks.
-  * Explain electrolyte degradation, gas evolution, and interphase formation in Li-ion and Mg-ion batteries.
+  * Construct and manage open datasets of molecular properties based on density functional theory (DFT)
+  * Design and implement methods to explore and analyze chemical reaction networks
+  * Explain electrolyte degradation, gas evolution, and interphase formation in Li-ion and Mg-ion batteries
+* **Cell Modeling Intern, Tesla Motors** (2023)
+  * Accelerated prediction of electrolyte transport properties through algorithmic optimization
+  * Evaluated electrolyte additives for high-voltage Li-ion cathodes and silicon anodes in terms of gas evolution and electrode passivation 
 * **Undergraduate Student Researcher, LBNL** (2018-2019)
   * Advisor: Anubhav Jain
-  * Performed computational screening studies of Diels-Alder reactions for liquid-phase thermal energy storage.
-  * Using DFT, identified a reaction leading to one of the highest specific heat capacities of any aqueous thermal fluid.
+  * Performed computational screening studies of Diels-Alder reactions for liquid-phase thermal energy storage
+  * Identified reactions leading to exceptional heat capacity enhancement in aqueous thermal fluids
 * **Lead Undergraduate Researcher, Columbia University** (2016-2019)
   * Advisor: Irving P. Herman
-  * Developed a sample cell architecture to improve small angle x-ray scattering signal from liquid interfaces.
-  * Revealed an unexpected transport mechanism controlling nanoparticle self-assembly kinetics.
+  * Developed a sample cell architecture to improve small angle x-ray scattering signal from liquid interfaces
+  * Revealed an unexpected transport mechanism controlling nanoparticle self-assembly kinetics
   
 Teaching experience
 ======
@@ -62,9 +65,9 @@ Honors and Awards
 Resources and Funding
 ======
 
-* **Schrodinger Inc.** (2020 - 2023)
+* **Schrodinger Inc.** (2020 - 2024)
   * Award type: Partnership
-  * Total award amount: In kind, valued at $3,586,000
+  * Total award amount: In kind, valued at $5,517,000
 * **High-Performance Computing, National Renewable Energy Laboratory** (2021 - 2023)
   * Award type: High-performance computing allocation
   * Total award amount: 5,248,000 node-hours
@@ -81,24 +84,23 @@ Contributed Reviews
 Leadership and Service
 ======
 
-* **UC Berkeley Course Materials and Services Fees Committee** (2022 - Present)
+* **UC Berkeley Course Materials and Services Fees Committee** (2022 - 2023)
   * Review policies related to fees for UC Berkeley courses
   * Advise the Chancellor regarding appropriate costs and fees
-  * **Current Role**: Graduate Student Representative
-* **Chancellor's Advisory Committee on the LGBTQ+ Communities at Cal** (2022 - Present)
+  * **Previous roles**: Graduate Student Representative
+* **Chancellor's Advisory Committee on the LGBTQ+ Communities at Cal** (2022 - 2023)
   * Advise UC Berkeley administration on the needs of queer and trans members of the Berkeley community
   * Review campus and UC system policies as they relate to LGBTQ+ campus members
-  * **Current Role**: Graduate Student Representative
-* **UC Berkeley Graduate Assembly** (2022 - Present)
+  * **Previous roles**: Graduate Student Representative
+* **UC Berkeley Graduate Assembly** (2022 - 2023)
   * Advocate on behalf of materials science graduate students
   * Develop policies and legislation to promote the well-being of UC Berkeley graduate students
-  * **Current Role**: Delegate
-* **UC Berkeley Materials Science and Engineering Graduate Student Council** (2020 - Present)
+  * **Previous roles**: Delegate
+* **UC Berkeley Materials Science and Engineering Graduate Student Council** (2020 - 2023)
   * Advocate to department administration and faculty for issues of importance to graduate students
   * Coordinate anti-racist reading groups in collaboration with UC Berkeley College of Chemistry
   * Organize events to build community among materials science graduate students
-  * **Current role**: Vice-President
-  * **Previous roles**: Social Chair
+  * **Previous roles**: Vice-President Social Chair
 * **Faculty Search Committee, UC Berkeley Department of Materials Science and Engineering** (2020, 2021, 2022)
   * Succeeded in hiring candidate Xiaoyu (Rayne) Zheng for the position of Assistant Professor
   * **Previous roles**: Member

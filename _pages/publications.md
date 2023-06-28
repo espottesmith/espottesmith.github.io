@@ -23,6 +23,86 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Diverse datasets of elementary molecular reactions and related trajectories.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Santiago   Vargas, Rishabh   Guha, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Solubility of ethylene and carbon dioxide gas in battery electrolytes.
+			</span><br />
+			<span class="authors">
+				Mel   Soto, Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Kristin A.  Persson, Kae   Fink, and Bertrand J. Tremolet Villers.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				RNMC: kinetic Monte Carlo implementations for complex reaction networks.
+			</span><br />
+			<span class="authors">
+				Laura   Zichi*, Daniel   Barter*, Eric   Sivonxay*, <b>Evan Walter Clark  Spotte-Smith</b>, Rohith   Srinivaas, Kristin A.  Persson, and Samuel M.  Blau.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				CoeffNet: Predicting activation barriers through a constrained, equivariant and chemically-interpretable graph neural network.
+			</span><br />
+			<span class="authors">
+				Sudarshan   Vijay, Maxwell   Venetos, <b>Evan Walter Clark  Spotte-Smith</b>, Aaron   Kaplan, Mingjian   Wen, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Rich and accessible molecular properties integrated in the Materials Project database.
 			</span><br />
 			<span class="authors">
