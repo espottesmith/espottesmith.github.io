@@ -103,10 +103,10 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/spottesmith_database_molecular_2023.pdf">A database of molecular and reaction properties integrated in the Materials Project</a>.
+				<a href="/files/papers/spottesmith_database_molecular_2023.pdf">A database of molecular properties integrated in the Materials Project</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Orion   Cohen, Samuel M.  Blau, Jason M.  Munro, Ruoxi   Yang, Rishabh   Guha, Hetal D.  Patel, Sudarshan   Vijay, Patrick   Huck, Ryan   Kingsbury, Matthew K.  Horton, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Orion Archer Cohen, Samuel M.  Blau, Jason M.  Munro, Ruoxi   Yang, Rishabh D. Guha, Hetal D.  Patel, Sudarshan   Vijay, Patrick   Huck, Ryan   Kingsbury, Matthew K.  Horton, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
