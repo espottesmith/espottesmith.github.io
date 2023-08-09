@@ -13,7 +13,7 @@ A PDF version of my CV can be found [here](/files/evan_spotte-smith_cv.pdf).
 
 Education
 ======
-* **Ph.D. in Materials Science and Engineering, University of California, Berkeley** (2024, expected)
+* **Ph.D. in Materials Science and Engineering, University of California, Berkeley** (2023, expected)
   * Advisor: Professor Kristin Aslaug Persson
 * **M.S. in Materials Science and Engineering, University of California, Berkeley** (2021)
 * **B.S. in Materials Science and Engineering, Columbia University** (2019)
@@ -21,7 +21,7 @@ Education
 
 Research experience
 ======
-* **Graduate Student Researcher, UC Berkeley/LBNL** (2019 - 2024)
+* **Graduate Student Researcher, UC Berkeley/LBNL** (2019 - 2023)
   * Advisor: Kristin Aslaug Persson
   * Construct and manage open datasets of molecular properties based on density functional theory (DFT)
   * Design and implement methods to explore and analyze chemical reaction networks

@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Hire Me!"
+    url: /faculty_candidate/
+
   - title: "Research"
     url: /research/
 
@@ -14,15 +18,9 @@ main:
 
   - title: "Software"
     url: /software/
-
-#  - title: "News"
-#    url: /news/
     
   - title: "CV"
     url: /cv/
-
-#  - title: "Guide"
-#    url: /markdown/
 
 #  - title: "Teaching"
 #    url: /teaching/
