@@ -23,10 +23,50 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Rational Design of Sustainable Chemical Solutions with Reaction Networks and Data Science.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark Spotte-Smith</b>.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">AIChE Annual Meeting</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Explaining Gas Evolution Mechanisms in Mg-Ion Batteries with Chemical Reaction Networks.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Nathan T.  Hahn, Nikita S.  Redkar, Kevin R.  Zavadil, Chen   Liao, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">AIChE Annual Meeting</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				MPcules: an open and accessible database of molecular properties in the Materials Project.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark Spotte-Smith</b>, Orion   Cohen, Samuel M.  Blau, Jason M.  Munro, Ryan   Kingsbury, Rishabh D.  Guha, Hetal D.  Patel, Sudarshan   Vijay, Ruoxi   Yang, Patrick   Huck, Matthew K.  Horton, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Orion   Cohen, Samuel M.  Blau, Jason M.  Munro, Ryan   Kingsbury, Rishabh D.  Guha, Hetal D.  Patel, Sudarshan   Vijay, Ruoxi   Yang, Patrick   Huck, Matthew K.  Horton, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">ACS Fall 2023 Meeting</span>.
 			<br />

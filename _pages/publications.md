@@ -43,6 +43,26 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries.
+			</span><br />
+			<span class="authors">
+				Sudarshan   Vijay*, <b>Evan Walter Clark  Spotte-Smith</b>*, Bernardine L. D.  Rinkel*, Thea Bee  Petrocelli, M. Rohith  Srinivaas, Bryan D.  McCloskey, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Solubility of ethylene and carbon dioxide gas in battery electrolytes.
 			</span><br />
 			<span class="authors">
@@ -66,7 +86,7 @@ author_profile: true
 				RNMC: kinetic Monte Carlo implementations for complex reaction networks.
 			</span><br />
 			<span class="authors">
-				Laura   Zichi*, Daniel   Barter*, Eric   Sivonxay*, <b>Evan Walter Clark  Spotte-Smith</b>, Rohith   Srinivaas, Kristin A.  Persson, and Samuel M.  Blau.
+				Laura   Zichi*, Daniel   Barter*, Eric   Sivonxay*, <b>Evan Walter Clark  Spotte-Smith</b>, M. Rohith  Srinivaas, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -83,12 +103,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				CoeffNet: Predicting activation barriers through a constrained, equivariant and chemically-interpretable graph neural network.
+				<a href="/files/papers/vijay_coeffnet_predicting_2023.pdf">CoeffNet: Predicting activation barriers through a constrained, equivariant and chemically-interpretable graph neural network</a>.
 			</span><br />
 			<span class="authors">
 				Sudarshan   Vijay, Maxwell   Venetos, <b>Evan Walter Clark  Spotte-Smith</b>, Aaron   Kaplan, Mingjian   Wen, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -106,9 +126,9 @@ author_profile: true
 				<a href="/files/papers/spottesmith_database_molecular_2023.pdf">A database of molecular properties integrated in the Materials Project</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Orion Archer Cohen, Samuel M.  Blau, Jason M.  Munro, Ruoxi   Yang, Rishabh D. Guha, Hetal D.  Patel, Sudarshan   Vijay, Patrick   Huck, Ryan   Kingsbury, Matthew K.  Horton, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Orion Archer  Cohen, Samuel M.  Blau, Jason M.  Munro, Ruoxi   Yang, Rishabh D.  Guha, Hetal D.  Patel, Sudarshan   Vijay, Patrick   Huck, Ryan   Kingsbury, Matthew K.  Horton, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>

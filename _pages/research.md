@@ -27,7 +27,7 @@ The eventual goal of this work is to be able to quickly and accurately predict t
 </td>
 <td>
 <div class="project__image">
-<img src="/images/high_throughput_reactivity.png" class="project__image" alt="Large datasets of molecular properties calculated using high-throughput density functional theory">
+<img src="/images/mpcules_flowchart.png" class="project__image" alt="A flowchart showing how tasks (DFT calculations) are transformed to molecules and molecular properties in the Materials Project.">
 </div>
 </td>
 </tr>
@@ -47,7 +47,7 @@ As part of ongoing collaborations with the Blau Group at LBNL, I continue to bui
 </td>
 <td>
 <div class="project__image">
-<img src="/images/stochastic_analysis.png" class="project__image" alt="A stochastic approach to reaction network analysis allows for identification of pathways and prediction of products in complex systems where little is initially known.">
+<img src="/images/rnmc.png" class="project__image" alt="Stochastic sampling of reaction networks allows for identification of pathways and prediction of products in complex systems where little is initially known.">
 </div>
 </td>
 </tr>
