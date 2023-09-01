@@ -23,6 +23,26 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				HEPoP: A ML Framework for the Hydrolysis Energy Predictions of Organic Molecules.
+			</span><br />
+			<span class="authors">
+				Rishabh D.  Guha*, Santiago   Vargas*, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander Rizzolo  Epstein, Maxwell   Venetos, Mingjian   Wen, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Diverse datasets of elementary molecular reactions and related trajectories.
 			</span><br />
 			<span class="authors">
@@ -148,7 +168,7 @@ author_profile: true
 			<span class="authors">
 				Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Ankit   Verma, Hetal D.  Patel, Kar   Fink, Bertrand J. Tremolet Villers, Maxwell C.  Schulze, Samuel M.  Blau, Kandler A.  Smith, Kristin A.  Persson, and Andrew M.  Colclasure.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">Accepted in Electrochimica Acta</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -168,7 +188,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Daniel   Barter, Noel J.  Leon, Nathan T.  Hahn, Nikita S.  Redkar, Kevin R.  Zavadil, Chen   Liao, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Journal of the American Chemical Society</span>.
+			<span class="venuetype"></span><span class="venue">Journal of the American Chemical Society 145(22)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -188,7 +208,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Alexander Rizzolo  Epstein*, Maxwell   Venetos, Oxana   Andriuc, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Journal of Chemical Theory and Computation</span>.
+			<span class="venuetype"></span><span class="venue">Journal of Chemical Theory and Computation 19(11)</span>.
 			<br />
 			<span class="links">
 			</span>
