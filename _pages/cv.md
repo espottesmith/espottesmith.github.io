@@ -51,10 +51,13 @@ Teaching experience
 Honors and Awards
 ======
 
+* **Pre-faculty Workshop Participant**, NextProf Nexus (2023)
+* **1st Prize**, Winton-Kavli Research Pitch Competition (2023)
 * **1st Prize, Innovation Expo**, Berkeley Energy & Resources Collaborative Energy Summit (2023)
 * **Battery Student Slam Winner**, 241st Electrochemical Society Meeting (2022)
 * **Philomathia Graduate Student Fellowship**, Kavli Energy Nanoscience Institute (2022)
-* **Honorable Mention**, NSF Graduate Research Fellowship Program (2019, 2020)
+* **Honorable Mention**, NSF Graduate Research Fellowship Program (2020)
+* **Honorable Mention**, NSF Graduate Research Fellowship Program (2019)
 * **Frank McQuiston Fellowship**, UC Berkeley Department of Materials Science and Engineering (2019)
 * **Clarendon Fund Scholarship**, University of Oxford (2019, declined)
 * **Magna Cum Laude**, Columbia University (2019)
@@ -78,7 +81,7 @@ Resources and Funding
 Contributed Reviews
 ======
 
-* 2023: ACS Nano, npj Computational Materials
+* 2023: ACS Nano, Journal of Chemical Information and Modeling, npj Computational Materials
 * 2022: ACS Energy Letters, The Journal of Open Source Software
 
 Leadership and Service
