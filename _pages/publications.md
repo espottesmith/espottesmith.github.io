@@ -166,7 +166,7 @@ author_profile: true
 				<a href="/files/papers/weddle_continuum_level_2023.pdf">Continuum-level modeling of Li-ion battery SEI by upscaling atomistically informed reaction mechanisms</a>.
 			</span><br />
 			<span class="authors">
-				Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Ankit   Verma, Hetal D.  Patel, Kar   Fink, Bertrand J. Tremolet Villers, Maxwell C.  Schulze, Samuel M.  Blau, Kandler A.  Smith, Kristin A.  Persson, and Andrew M.  Colclasure.
+				Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Ankit   Verma, Hetal D.  Patel, Kae   Fink, Bertrand J. Tremolet Villers, Maxwell C.  Schulze, Samuel M.  Blau, Kandler A.  Smith, Kristin A.  Persson, and Andrew M.  Colclasure.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Accepted in Electrochimica Acta</span>.
 			<br />
