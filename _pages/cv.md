@@ -84,6 +84,11 @@ Contributed Reviews
 * 2023: ACS Nano, Journal of Chemical Information and Modeling, npj Computational Materials
 * 2022: ACS Energy Letters, The Journal of Open Source Software
 
+Organized Symposia and Workshops
+======
+
+* **Kavli Career Development Workshop**, UC Berkeley (2023)
+
 Leadership and Service
 ======
 
