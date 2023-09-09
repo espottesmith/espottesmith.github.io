@@ -168,7 +168,7 @@ author_profile: true
 			<span class="authors">
 				Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Ankit   Verma, Hetal D.  Patel, Kae   Fink, Bertrand J. Tremolet Villers, Maxwell C.  Schulze, Samuel M.  Blau, Kandler A.  Smith, Kristin A.  Persson, and Andrew M.  Colclasure.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted in Electrochimica Acta</span>.
+			<span class="venuetype"></span><span class="venue">Electrochimica Acta</span>.
 			<br />
 			<span class="links">
 			</span>

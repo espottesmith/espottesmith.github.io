@@ -17,14 +17,14 @@ The research group that I found, the **CoReACTER** (**Co**mmunity of **Re**searc
 Research
 ======
 
-In my research, I seek to leverage a fundamental understanding of chemical reactivity to accelerate the transition towards sustainable chemical technologies. I operate at the intersection of _computational modeling, data science, and systems engineering_ to address problems from the molecular scale to the industrial scale using theory and computation. My research program will focus on electrochemical and catalytic processes which are relevant to a variety of sustainable chemistry problems, with an early emphasis on electrolyte decomposition in metal-ion batteries and energy-efficient depolymerization of plastic waste. Because reactions in these domains typically occur far from equilibrium, with many species and reactions that may occur simultaneously and interfere with desired pathways, they are notoriously difficult to study and therefore require considerable attention.
+In my research, I seek to leverage a fundamental understanding of chemical reactivity to accelerate the transition towards sustainable chemical technologies. I operate at the intersection of _computational modeling, data science, and systems engineering_ to address problems from the molecular scale to the industrial scale using theory and computation. My research program will focus on electrochemical and catalytic processes which are relevant to a variety of sustainable chemistry problems, with an early emphasis on electrolyte decomposition in metal-ion batteries and energy-efficient depolymerization of plastic waste and future interests in electrosynthesis. Because reactions in these domains typically occur far from equilibrium, with many species and reactions that may occur simultaneously and interfere with desired pathways, they are notoriously difficult to study and therefore require considerable attention.
 
 Specifically, my early research will focus on the following themes:
 1. Accelerating exploration of reactions using machine learning and network theory
 2. Applying chemical reaction networks to optimize reaction cascades in electrochemistry and polymers
 3. Extreme multiscale modeling of sustainable technologies, linking the atomic scale to the system scale
 
-![An overview of my proposed research](https://espottesmith.github.io/images/future_research_overview.png)
+![An overview of my proposed research](https://espottesmith.github.io/images/coreacter.png)
 
 
 Teaching
