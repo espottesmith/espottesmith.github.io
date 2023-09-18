@@ -23,50 +23,10 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				HEPoP: A ML Framework for the Hydrolysis Energy Predictions of Organic Molecules.
-			</span><br />
-			<span class="authors">
-				Rishabh D.  Guha*, Santiago   Vargas*, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander Rizzolo  Epstein, Maxwell   Venetos, Mingjian   Wen, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				Diverse datasets of elementary molecular reactions and related trajectories.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Santiago   Vargas, Rishabh   Guha, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries.
-			</span><br />
-			<span class="authors">
-				Sudarshan   Vijay*, <b>Evan Walter Clark  Spotte-Smith</b>*, Bernardine L. D.  Rinkel*, Thea Bee  Petrocelli, M. Rohith  Srinivaas, Bryan D.  McCloskey, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -107,6 +67,46 @@ author_profile: true
 			</span><br />
 			<span class="authors">
 				Laura   Zichi*, Daniel   Barter*, Eric   Sivonxay*, <b>Evan Walter Clark  Spotte-Smith</b>, M. Rohith  Srinivaas, Kristin A.  Persson, and Samuel M.  Blau.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries.
+			</span><br />
+			<span class="authors">
+				Sudarshan   Vijay*, <b>Evan Walter Clark  Spotte-Smith</b>*, Bernardine L. D.  Rinkel, Thea Bee  Petrocelli, M. Rohith  Srinivaas, Bryan D.  McCloskey, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				HEPOM: An ML Framework for the Hydrolysis Energy Predictions of Organic Molecules.
+			</span><br />
+			<span class="authors">
+				Rishabh D.  Guha*, Santiago   Vargas*, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander Rizzolo  Epstein, Maxwell   Venetos, Mingjian   Wen, Ryan   Kingsbury, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />

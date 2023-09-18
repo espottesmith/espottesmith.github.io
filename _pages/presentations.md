@@ -26,7 +26,7 @@ author_profile: true
 				Rational Design of Sustainable Chemical Solutions with Reaction Networks and Data Science.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark Spotte-Smith</b>.
+				<b>Evan Walter Clark  Spotte-Smith</b>.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">AIChE Annual Meeting</span>.
 			<br />
