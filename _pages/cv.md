@@ -92,14 +92,14 @@ Organized Symposia and Workshops
 Leadership and Service
 ======
 
-* **UC Berkeley Course Materials and Services Fees Committee** (2022 - 2023)
+<!-- * **UC Berkeley Course Materials and Services Fees Committee** (2022 - 2023)
   * Review policies related to fees for UC Berkeley courses
   * Advise the Chancellor regarding appropriate costs and fees
   * **Previous roles**: Graduate Student Representative
 * **Chancellor's Advisory Committee on the LGBTQ+ Communities at Cal** (2022 - 2023)
   * Advise UC Berkeley administration on the needs of queer and trans members of the Berkeley community
   * Review campus and UC system policies as they relate to LGBTQ+ campus members
-  * **Previous roles**: Graduate Student Representative
+  * **Previous roles**: Graduate Student Representative -->
 * **UC Berkeley Graduate Assembly** (2022 - 2023)
   * Advocate on behalf of materials science graduate students
   * Develop policies and legislation to promote the well-being of UC Berkeley graduate students
