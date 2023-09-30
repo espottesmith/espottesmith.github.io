@@ -43,26 +43,6 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Solubility of ethylene and carbon dioxide gas in battery electrolytes.
-			</span><br />
-			<span class="authors">
-				Mel   Soto, Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Kristin A.  Persson, Kae   Fink, and Bertrand J. Tremolet Villers.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				RNMC: kinetic Monte Carlo implementations for complex reaction networks.
 			</span><br />
 			<span class="authors">
@@ -103,12 +83,32 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				HEPOM: An ML Framework for the Hydrolysis Energy Predictions of Organic Molecules.
+				Solubilities of Ethylene and Carbon Dioxide Gases in Lithium-ion Battery Electrolyte.
+			</span><br />
+			<span class="authors">
+				Mel   Soto, Kae   Fink, Christof   Zweifel, Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Kristin A.  Persson, Andrew M.  Colclasure, and Bertrand J. Tremolet Villers.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In review</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				HEPOM: A predictive framework for accelerated Hydrolysis Energy Predictions of Organic Molecules.
 			</span><br />
 			<span class="authors">
 				Rishabh D.  Guha*, Santiago   Vargas*, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander Rizzolo  Epstein, Maxwell   Venetos, Mingjian   Wen, Ryan   Kingsbury, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
