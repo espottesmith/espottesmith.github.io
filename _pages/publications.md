@@ -103,26 +103,6 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				HEPOM: A predictive framework for accelerated Hydrolysis Energy Predictions of Organic Molecules.
-			</span><br />
-			<span class="authors">
-				Rishabh D.  Guha*, Santiago   Vargas*, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander Rizzolo  Epstein, Maxwell   Venetos, Mingjian   Wen, Ryan   Kingsbury, Samuel M.  Blau, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				<a href="/files/papers/vijay_coeffnet_predicting_2023.pdf">CoeffNet: Predicting activation barriers through a constrained, equivariant and chemically-interpretable graph neural network</a>.
 			</span><br />
 			<span class="authors">
