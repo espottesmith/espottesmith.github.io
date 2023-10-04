@@ -66,7 +66,7 @@ author_profile: true
 				A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries.
 			</span><br />
 			<span class="authors">
-				Sudarshan   Vijay*, <b>Evan Walter Clark  Spotte-Smith</b>*, Bernardine L. D.  Rinkel, Thea Bee  Petrocelli, M. Rohith  Srinivaas, Bryan D.  McCloskey, and Kristin A.  Persson.
+				Sudarshan   Vijay*, <b>Evan Walter Clark  Spotte-Smith</b>*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
