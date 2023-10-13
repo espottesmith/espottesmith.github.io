@@ -128,7 +128,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Orion Archer  Cohen, Samuel M.  Blau, Jason M.  Munro, Ruoxi   Yang, Rishabh D.  Guha, Hetal D.  Patel, Sudarshan   Vijay, Patrick   Huck, Ryan   Kingsbury, Matthew K.  Horton, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">Digital Discovery</span>.
 			<br />
 			<span class="links">
 			</span>
