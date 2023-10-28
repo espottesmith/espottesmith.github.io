@@ -66,7 +66,7 @@ author_profile: true
 				A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries.
 			</span><br />
 			<span class="authors">
-				Sudarshan   Vijay*, <b>Evan Walter Clark  Spotte-Smith</b>*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Sudarshan   Vijay*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -109,6 +109,26 @@ author_profile: true
 				Sudarshan   Vijay, Maxwell   Venetos, <b>Evan Walter Clark  Spotte-Smith</b>, Aaron   Kaplan, Mingjian   Wen, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In review</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="/files/papers/guha_vargas_hepom_predictive_2023.pdf">HEPOM: A predictive framework for accelerated Hydrolysis Energy Predictions of Organic Molecules</a>.
+			</span><br />
+			<span class="authors">
+				Rishabh D.  Guha*, Santiago   Vargas*, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander Rizzolo  Epstein, Maxwell   Venetos, Mingjian   Wen, Ryan   Kingsbury, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Accepted, NeurIPS AI4Mat</span>.
 			<br />
 			<span class="links">
 			</span>
