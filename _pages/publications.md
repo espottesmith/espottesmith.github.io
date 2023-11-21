@@ -23,6 +23,26 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Calculated Properties of Molecules at Diverse Charge and Spin States for Next-Generation Chemical Machine Learning.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Eric   Sivonxay, Michael W.  Mahoney, Samuel M.  Blau, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Diverse datasets of elementary molecular reactions and related trajectories.
 			</span><br />
 			<span class="authors">
@@ -63,12 +83,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries.
+				<a href="/files/papers/spottesmith_critical_analysis_2023.pdf">A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries</a>.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Sudarshan   Vijay*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -86,7 +106,7 @@ author_profile: true
 				Solubilities of Ethylene and Carbon Dioxide Gases in Lithium-ion Battery Electrolyte.
 			</span><br />
 			<span class="authors">
-				Mel   Soto, Kae   Fink, Christof   Zweifel, Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Kristin A.  Persson, Andrew M.  Colclasure, and Bertrand J. Tremolet Villers.
+				Mel   Soto, Kae   Fink, Christof   Zweifel, Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Gabriel   Veith, Kristin A.  Persson, Andrew M.  Colclasure, and Bertrand J. Tremolet Villers.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
