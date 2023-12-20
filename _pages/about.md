@@ -8,18 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Materials Science and Engineering at the University of California, Berkeley (UC Berkeley)
-and Lawrence Berkeley National Laboratory (LBNL). I am advised by Professor [Kristin Aslaug Persson](https://perssongroup.lbl.gov),
-and I was formerly a Kavli Energy Nanoscience Institute [Philomathia Graduate Student Fellow](https://kavli.berkeley.edu/evan-walter-clark-spotte-smith).
-In my doctoral research, I have collaborated closely with scholars within the Joint Center for Energy Storage 
-Research ([JCESR](https://www.jcesr.org/)), the Silicon Consortium Project, and the Disordered Rock Salt Consortium.
+I am a computational chemist with a background in materials science, electrochemistry, and energy storage.
+My research focuses broadly on applying quantum chemistry, statistical mechanics, and data science to understand molecular reactivity in complex environments.
+I design databases of molecular and reaction properties, develop methods to construct and explore chemical reaction networks, and leverage those data and methods to understand reaction mechanisms.
+Much of my recent work has focused on applications in electrolyte decomposition in metal-ion (especially Li-ion and Mg-ion) batteries, but I'm broadly interested in theoretical studies of electrochemistry and catalysis.
 
-My current research focuses on understanding the (electro)chemical reaction mechanisms that control
-electrolyte decomposition and interphase formation in metal-ion (especially Li-ion and Mg-ion) batteries.
-I use a variety of computational and theoretical techniques - primarily density functional theory, chemical reaction networks,
-and Monte Carlo methods, as well as data science and machine learning - to predict stable decomposition products, identify
-thermodynamically and kinetically feasible reaction pathways, and assess reactive competition. More broadly, I am interested
-in theoretical studies of reactivity in complex (electro)chemical environments. 
+I recently obtained my PhD in Materials Science and Engineering from the University of California, Berkeley.
+I was advised by Professor [Kristin Aslaug Persson](https://perssongroup.lbl.gov), and I performed most of my work in collaboration with scholars within the Joint Center for Energy Storage Research ([JCESR](https://www.jcesr.org/)), the Silicon Consortium Project, and the Disordered Rock Salt Consortium.
+I was formerly a Kavli Energy Nanoscience Institute [Philomathia Graduate Student Fellow](https://kavli.berkeley.edu/evan-walter-clark-spotte-smith).
 
 Prior to attending UC Berkeley, I received my Bachelor of Science in Materials Science and Engineering from Columbia University
 in 2019. During my undergraduate education, I conducted research on nanoparticle self-assembly dynamics with

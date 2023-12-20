@@ -312,8 +312,7 @@ compress_html:
 
 
 roles:
-    - {key: advisor, name: Advisor}
-    - {key: mentor, name: Mentors}
     - {key: mentee, name: Current Mentees}
     - {key: former_mentee, name: Former Mentees}
     - {key: former_advisor, name: Former Advisors}
+    - {key: collaborator, name: Collaborators}

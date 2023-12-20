@@ -11,7 +11,7 @@ author_profile: true
 		<td>
 			<span class="date">
 				
-				<big><strong>2023</strong></big><br />
+				<big><strong>2024</strong></big><br />
 				
         
 				
@@ -83,26 +83,6 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/spottesmith_critical_analysis_2023.pdf">A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries</a>.
-			</span><br />
-			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>*, Sudarshan   Vijay*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				Solubilities of Ethylene and Carbon Dioxide Gases in Lithium-ion Battery Electrolyte.
 			</span><br />
 			<span class="authors">
@@ -138,6 +118,33 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				<big><strong>2023</strong></big><br />
+				
+        
+				
+				
+        
+        
+        
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="/files/papers/spottesmith_critical_analysis_2023.pdf">A critical analysis of chemical and electrochemical oxidation mechanisms in Li-ion batteries</a>.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>*, Sudarshan   Vijay*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In review</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				
 			</span>
 		</td>
@@ -148,7 +155,7 @@ author_profile: true
 			<span class="authors">
 				Rishabh D.  Guha*, Santiago   Vargas*, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander Rizzolo  Epstein, Maxwell   Venetos, Mingjian   Wen, Ryan   Kingsbury, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted, NeurIPS AI4Mat</span>.
+			<span class="venuetype"></span><span class="venue">Conference and Workshop on Neural Information Processing Systems</span>.
 			<br />
 			<span class="links">
 			</span>

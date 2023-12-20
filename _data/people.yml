@@ -45,14 +45,14 @@ rkam:
 
 kristin:
   display_name: Kristin Aslaug Persson
-  role: advisor
+  role: former_advisor
   current_position: |
     Daniel M. Tellep Distinguished Professor, UC Berkeley; Director, Molecular Foundry; Director, Materials Project
   image: /images/kristin_persson.png
 
 sblau:
   display_name: Samuel M. Blau
-  role: mentor
+  role: collaborator
   current_position: Research Scientist, LBNL
   image: /images/sam_blau.png
 
