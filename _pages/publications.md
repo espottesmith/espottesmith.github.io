@@ -118,14 +118,7 @@ author_profile: true
 		<td>
 			<span class="date">
 				
-				<big><strong>2023</strong></big><br />
 				
-        
-				
-				
-        
-        
-        
 			</span>
 		</td>
 		<td class="publication">
@@ -135,7 +128,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Sudarshan   Vijay*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">Accepted, The Journal of Physical Chemistry Letters</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -145,7 +138,14 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				<big><strong>2023</strong></big><br />
 				
+        
+				
+				
+        
+        
+        
 			</span>
 		</td>
 		<td class="publication">
