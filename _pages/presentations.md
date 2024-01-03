@@ -23,7 +23,7 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Exploring and Explaining Electrochemical Reactivity with Data Science.
+				Using Networks to Obtain Mechanistic Understanding in Electrochemistry.
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>.

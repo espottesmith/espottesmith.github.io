@@ -108,7 +108,7 @@ author_profile: true
 			<span class="authors">
 				Sudarshan   Vijay, Maxwell   Venetos, <b>Evan Walter Clark  Spotte-Smith</b>, Aaron   Kaplan, Mingjian   Wen, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">Accepted, Chemical Science</span>.
 			<br />
 			<span class="links">
 			</span>
