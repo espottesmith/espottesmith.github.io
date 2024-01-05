@@ -128,7 +128,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Sudarshan   Vijay*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted, The Journal of Physical Chemistry Letters</span>.
+			<span class="venuetype"></span><span class="venue">The Journal of Physical Chemistry Letters</span>.
 			<br />
 			<span class="links">
 			</span>
