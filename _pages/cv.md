@@ -13,8 +13,9 @@ A PDF version of my CV can be found [here](/files/evan_spotte-smith_cv.pdf).
 
 Education
 ======
-* **Ph.D. in Materials Science and Engineering, University of California, Berkeley** (2023, expected)
+* **Ph.D. in Materials Science and Engineering, University of California, Berkeley** (2023)
   * Advisor: Professor Kristin Aslaug Persson
+  * Thesis: "On the Exploration of Electrochemical Reaction Cascades"
 * **M.S. in Materials Science and Engineering, University of California, Berkeley** (2021)
 * **B.S. in Materials Science and Engineering, Columbia University** (2019)
   * Minor: Sustainable Engineering
@@ -23,9 +24,9 @@ Research experience
 ======
 * **Graduate Student Researcher, UC Berkeley/LBNL** (2019 - 2023)
   * Advisor: Kristin Aslaug Persson
-  * Construct and manage open datasets of molecular properties based on density functional theory (DFT)
-  * Design and implement methods to explore and analyze chemical reaction networks
-  * Explain electrolyte degradation, gas evolution, and interphase formation in Li-ion and Mg-ion batteries
+  * Constructed and managed open datasets of molecular properties based on density functional theory (DFT)
+  * Designed and implemented methods to explore and analyze chemical reaction networks
+  * Explained electrolyte degradation, gas evolution, and interphase formation in Li-ion and Mg-ion batteries
 * **Cell Modeling Intern, Tesla Motors** (2023)
   * Accelerated prediction of electrolyte transport properties through algorithmic optimization
   * Evaluated electrolyte additives for high-voltage Li-ion cathodes and silicon anodes in terms of gas evolution and electrode passivation 
@@ -92,14 +93,6 @@ Organized Symposia and Workshops
 Leadership and Service
 ======
 
-<!-- * **UC Berkeley Course Materials and Services Fees Committee** (2022 - 2023)
-  * Review policies related to fees for UC Berkeley courses
-  * Advise the Chancellor regarding appropriate costs and fees
-  * **Previous roles**: Graduate Student Representative
-* **Chancellor's Advisory Committee on the LGBTQ+ Communities at Cal** (2022 - 2023)
-  * Advise UC Berkeley administration on the needs of queer and trans members of the Berkeley community
-  * Review campus and UC system policies as they relate to LGBTQ+ campus members
-  * **Previous roles**: Graduate Student Representative -->
 * **UC Berkeley Graduate Assembly** (2022 - 2023)
   * Advocate on behalf of materials science graduate students
   * Develop policies and legislation to promote the well-being of UC Berkeley graduate students
