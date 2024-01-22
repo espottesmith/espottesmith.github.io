@@ -108,7 +108,7 @@ author_profile: true
 			<span class="authors">
 				Sudarshan   Vijay, Maxwell   Venetos, <b>Evan Walter Clark  Spotte-Smith</b>, Aaron   Kaplan, Mingjian   Wen, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Accepted, Chemical Science</span>.
+			<span class="venuetype"></span><span class="venue">Chemical Science</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -128,7 +128,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>*, Sudarshan   Vijay*, Thea Bee  Petrocelli, Bernardine L. D.  Rinkel, Bryan D.  McCloskey, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">The Journal of Physical Chemistry Letters</span>.
+			<span class="venuetype"></span><span class="venue">The Journal of Physical Chemistry Letters 15(2)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -175,7 +175,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Orion Archer  Cohen, Samuel M.  Blau, Jason M.  Munro, Ruoxi   Yang, Rishabh D.  Guha, Hetal D.  Patel, Sudarshan   Vijay, Patrick   Huck, Ryan   Kingsbury, Matthew K.  Horton, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Digital Discovery</span>.
+			<span class="venuetype"></span><span class="venue">Digital Discovery 2(6)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -195,7 +195,7 @@ author_profile: true
 			<span class="authors">
 				Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Ankit   Verma, Hetal D.  Patel, Kae   Fink, Bertrand J. Tremolet Villers, Maxwell C.  Schulze, Samuel M.  Blau, Kandler A.  Smith, Kristin A.  Persson, and Andrew M.  Colclasure.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Electrochimica Acta</span>.
+			<span class="venuetype"></span><span class="venue">Electrochimica Acta 468(143121)</span>.
 			<br />
 			<span class="links">
 			</span>

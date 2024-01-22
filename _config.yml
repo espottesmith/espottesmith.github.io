@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "EWCSpotteSmith"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "headshot_2021.jpeg"
   bio              : "They/Them | computational electrochemist"
   location         : "Oakland, CA"
-  employer         : "UC Berkeley / LBNL"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-VrJAPoAAAAJ&hl=en&oi=ao"
   email            :  "espottesmith@gmail.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "EWCSpotteSmith"
+  twitter          :
   vine             :
   weibo            :
   xing             :
