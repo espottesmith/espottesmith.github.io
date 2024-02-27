@@ -23,10 +23,10 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Calculated Properties of Molecules at Diverse Charge and Spin States for Next-Generation Chemical Machine Learning.
+				Achieving New Calcium Alkoxyaluminate Salts with a Novel Synthetic Route.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Eric   Sivonxay, Michael W.  Mahoney, Samuel M.  Blau, and Kristin A.  Persson.
+				Noel J.  Leon, Stefan   Illic, Xiaowei   Xie, Heonjae   Jeong, Zhenzhen   Yang, Bingning   Wang, <b>Evan Walter Clark  Spotte-Smith</b>, Charlotte   Stern, Nathan   Hahn, Kevin   Zavadil, Lei   Cheng, Kristin   Persson, Justin   Connell, and Chen   Liao.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -43,10 +43,10 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Diverse datasets of elementary molecular reactions and related trajectories.
+				Calculated Properties of Molecules at Diverse Charge and Spin States for Next-Generation Chemical Machine Learning.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Samuel M.  Blau, Santiago   Vargas, Rishabh   Guha, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Eric   Sivonxay, Michael W.  Mahoney, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
