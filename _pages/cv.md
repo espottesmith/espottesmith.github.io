@@ -82,6 +82,7 @@ Resources and Funding
 Contributed Reviews
 ======
 
+* 2024: The Journal of Open Source Software, Scientific Data
 * 2023: ACS Nano, Journal of Chemical Information and Modeling, npj Computational Materials
 * 2022: ACS Energy Letters, The Journal of Open Source Software
 
