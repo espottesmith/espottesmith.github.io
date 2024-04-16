@@ -66,7 +66,7 @@ author_profile: true
 				A Collection of Elementary Reactions Relevant to Solution-Phase Electrolyte Chemistry.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Santiago   Vargas, Rishabh D.  Guha, Thea Bee  Petrocelli, Aniruddh   Khanwale, Samuel M.  Blau, and Kristin A.  Persson.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Santiago   Vargas, Rishabh D.  Guha, M. Rohith  Srinivaas, Thea Bee  Petrocelli, Aniruddh   Khanwale, Samuel M.  Blau, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
