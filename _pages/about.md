@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational chemist with a background in materials science, electrochemistry, and energy storage.
-In my research, I apply computational chemistry (e.g. quantum chemistry, statistical mechanics) and data science to understand molecular reactivity in complex environments.
+I am a computational and data chemist with a background in materials science, electrochemistry, and energy storage.
+In my research, I apply computational chemistry (e.g. quantum chemistry, statistical mechanics) and data science (e.g. reaction networks, machine learning) to understand molecular reactivity in complex environments.
 Much of my recent work has focused on applications in electrolyte decomposition in metal-ion (especially Li-ion and Mg-ion) batteries, but I'm broadly interested in electrochemistry, catalysis, and sustainability.
 
-I'm currently a Postdoctoral Fellow working with [Gabe dos Passos Gomes](https://gomesgroup.andrew.cmu.edu/index.html) at Carnegie Mellon University (CMU).
-My research at CMU focuses on combining machine learning with simulations and high-throughput experiments to optimize chemical reactions, with applications in the areas of environmental remediation and sustainability.
-I'm also working to develop ethical standards and policy to guide applications of machine learning, particularly in the chemical sciences.
+I'm currently a Postdoctoral Fellow working with [Prof. Gabe dos Passos Gomes](https://gomesgroup.andrew.cmu.edu/index.html) at Carnegie Mellon University (CMU), and I'm an incoming Carnegie Bosch Institute Fellow, collaborating with [Prof. Rachel Kurchin](https://acme-group-cmu.github.io/).
+My research at CMU focuses on combining machine learning with simulations to optimize (electro)chemical reactions, with applications in the areas of catalysis and sustainability.
+I'm also thinking about developing ethical standards and policy to guide applications of machine learning, particularly in the chemical sciences.
 
 I obtained my PhD in Materials Science and Engineering from the University of California, Berkeley.
-I was advised by Professor [Kristin Aslaug Persson](https://perssongroup.lbl.gov), and I performed most of my work in collaboration with scholars within the Joint Center for Energy Storage Research ([JCESR](https://www.jcesr.org/)), the Silicon Consortium Project, and the Disordered Rock Salt Consortium.
+I was advised by [Prof. Kristin Aslaug Persson](https://perssongroup.lbl.gov), and I performed most of my work in collaboration with scholars within the Joint Center for Energy Storage Research ([JCESR](https://www.jcesr.org/)), the Silicon Consortium Project, and the Disordered Rock Salt Consortium.
 During my time at UC Berkeley, I held the [Philomathia Graduate Student Fellowship](https://kavli.berkeley.edu/evan-walter-clark-spotte-smith) through the Kavli Energy Nanoscience Institute.
 
 Prior to attending UC Berkeley, I received my Bachelor of Science in Materials Science and Engineering from Columbia University

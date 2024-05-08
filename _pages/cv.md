@@ -13,6 +13,7 @@ A PDF version of my CV can be found [here](/files/evan_spotte-smith_cv.pdf).
 
 Education
 ======
+
 * **Ph.D. in Materials Science and Engineering, University of California, Berkeley** (2023)
   * Advisor: Professor Kristin Aslaug Persson
   * Thesis: "On the Exploration of Electrochemical Reaction Cascades"
@@ -22,22 +23,27 @@ Education
 
 Research experience
 ======
+
+* **Carnegie Bosch Institute Fellow, Carnegie Mellon University** (2024)
+  * Advisor: Rachel Kurchin
+* **Postdoctoral Fellow, Carnegie Mellon University** (2024)
+  * Advisor: Gabe dos Passos Gomes
 * **Graduate Student Researcher, UC Berkeley/LBNL** (2019 - 2023)
   * Advisor: Kristin Aslaug Persson
-  * Constructed and managed open datasets of molecular properties based on density functional theory (DFT)
+  <!-- * Constructed and managed open datasets of molecular properties based on density functional theory (DFT)
   * Designed and implemented methods to explore and analyze chemical reaction networks
-  * Explained electrolyte degradation, gas evolution, and interphase formation in Li-ion and Mg-ion batteries
+  * Explained electrolyte degradation, gas evolution, and interphase formation in Li-ion and Mg-ion batteries -->
 * **Cell Modeling Intern, Tesla Motors** (2023)
-  * Accelerated prediction of electrolyte transport properties through algorithmic optimization
-  * Evaluated electrolyte additives for high-voltage Li-ion cathodes and silicon anodes in terms of gas evolution and electrode passivation 
+  <!-- * Accelerated prediction of electrolyte transport properties through algorithmic optimization
+  * Evaluated electrolyte additives for high-voltage Li-ion cathodes and silicon anodes in terms of gas evolution and electrode passivation  -->
 * **Undergraduate Student Researcher, LBNL** (2018-2019)
   * Advisor: Anubhav Jain
-  * Performed computational screening studies of Diels-Alder reactions for liquid-phase thermal energy storage
-  * Identified reactions leading to exceptional heat capacity enhancement in aqueous thermal fluids
+  <!-- * Performed computational screening studies of Diels-Alder reactions for liquid-phase thermal energy storage
+  * Identified reactions leading to exceptional heat capacity enhancement in aqueous thermal fluids -->
 * **Lead Undergraduate Researcher, Columbia University** (2016-2019)
   * Advisor: Irving P. Herman
-  * Developed a sample cell architecture to improve small angle x-ray scattering signal from liquid interfaces
-  * Revealed an unexpected transport mechanism controlling nanoparticle self-assembly kinetics
+  <!-- * Developed a sample cell architecture to improve small angle x-ray scattering signal from liquid interfaces
+  * Revealed an unexpected transport mechanism controlling nanoparticle self-assembly kinetics -->
   
 Teaching experience
 ======
@@ -52,6 +58,8 @@ Teaching experience
 Honors and Awards
 ======
 
+* **Carnegie Bosch Institute Fellowship**, Carnegie Mellon University (2024)
+* **President's Postdoctoral Fellow**, Carnegie Mellon University (2024, declined)
 * **Pre-faculty Workshop Participant**, NextProf Nexus (2023)
 * **1st Prize**, Winton-Kavli Research Pitch Competition (2023)
 * **1st Prize, Innovation Expo**, Berkeley Energy & Resources Collaborative Energy Summit (2023)
@@ -82,7 +90,7 @@ Resources and Funding
 Contributed Reviews
 ======
 
-* 2024: The Journal of Open Source Software, Scientific Data
+* 2024: The Journal of Open Source Software, Scientific Data, Journal of Physics D: Applied Physics
 * 2023: ACS Nano, Journal of Chemical Information and Modeling, npj Computational Materials
 * 2022: ACS Energy Letters, The Journal of Open Source Software
 

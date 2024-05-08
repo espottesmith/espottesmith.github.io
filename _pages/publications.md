@@ -43,46 +43,6 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Machine Learning Energy Barriers of Diverse Condensed-Phase Reactions.
-			</span><br />
-			<span class="authors">
-				Santiago   Vargas, <b>Evan Walter Clark  Spotte-Smith</b>, Wenbin   Xu, Hyelim   Yang, Rishabh D.  Guha, Kristin A.  Persson, and Samuel M.  Blau.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				A Collection of Elementary Reactions Relevant to Solution-Phase Electrolyte Chemistry.
-			</span><br />
-			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Santiago   Vargas, Rishabh D.  Guha, M. Rohith  Srinivaas, Thea Bee  Petrocelli, Aniruddh   Khanwale, Samuel M.  Blau, and Kristin A.  Persson.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				Calculated Properties of Molecules at Diverse Charge and Spin States for Next-Generation Chemical Machine Learning.
 			</span><br />
 			<span class="authors">
@@ -103,12 +63,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Achieving New Calcium Alkoxyaluminate Salts with a Novel Synthetic Route.
+				The Materials Project: A Decade of Materials Discovery.
 			</span><br />
 			<span class="authors">
-				Noel J.  Leon, Stefan   Illic, Xiaowei   Xie, Heonjae   Jeong, Zhenzhen   Yang, Bingning   Wang, <b>Evan Walter Clark  Spotte-Smith</b>, Charlotte   Stern, Nathan   Hahn, Kevin   Zavadil, Lei   Cheng, Kristin   Persson, Justin   Connell, and Chen   Liao.
+				Matthew K.  Horton, Patrick   Huck, Ruoxi X.  Yang, Jason M.  Munro, Shyam   Dwaraknath, Alexander M.  Ganose, Ryan S.  Kingsbury, Mingjian   Wen, Jimmy-Xuan   Shen, Tyler S.  Mathis, Aaron D.  Kaplan, Karlo   Berket, Janosh   Riebesell, Janine   George, Andrew S.  Rosen, <b>Evan Walter Clark  Spotte-Smith</b>, Matthew J.  McDermott, Orion A.  Cohen, Alexander   Dunn, Matthew   Kuner, Gian-Marco   Rignanese, Geoffrey   Hautier, Guido   Petretto, David   Waroquiers, Sinead M.  Griffin, Jeffrey B.  Neaton, Daryl C.  Chrzan, Mark   Asta, Shreyas   Cholia, Gerbrand   Ceder, Shyue-Ping   Ong, Anubhav   Jain, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -127,6 +87,26 @@ author_profile: true
 			</span><br />
 			<span class="authors">
 				Mel   Soto, Kae   Fink, Christof   Zweifel, Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Gabriel   Veith, Kristin A.  Persson, Andrew M.  Colclasure, and Bertrand J. Tremolet Villers.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In review</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="/files/papers/leon_design_principles_2024.pdf">Design Principles and Routes for Calcium Alkoxyaluminate Electrolytes</a>.
+			</span><br />
+			<span class="authors">
+				Noel J.  Leon, Stefan   Illic, Xiaowei   Xie, Heonjae   Jeong, Zhenzhen   Yang, Bingning   Wang, <b>Evan Walter Clark  Spotte-Smith</b>, Charlotte   Stern, Nathan   Hahn, Kevin   Zavadil, Lei   Cheng, Kristin   Persson, Justin   Connell, and Chen   Liao.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
