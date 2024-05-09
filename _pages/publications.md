@@ -108,7 +108,7 @@ author_profile: true
 			<span class="authors">
 				Noel J.  Leon, Stefan   Illic, Xiaowei   Xie, Heonjae   Jeong, Zhenzhen   Yang, Bingning   Wang, <b>Evan Walter Clark  Spotte-Smith</b>, Charlotte   Stern, Nathan   Hahn, Kevin   Zavadil, Lei   Cheng, Kristin   Persson, Justin   Connell, and Chen   Liao.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Journal of Physical Chemistry Letters</span>.
+			<span class="venuetype"></span><span class="venue">The Journal of Physical Chemistry Letters</span>.
 			<br />
 			<span class="links">
 			</span>
