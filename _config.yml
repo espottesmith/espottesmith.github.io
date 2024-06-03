@@ -83,11 +83,11 @@ author:
   name             : "Evan Walter Clark Spotte-Smith, PhD"
   avatar           : "headshot_2021.jpeg"
   bio              : "they/them | computational (electro)chemist"
-  location         : "Oakland, CA"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-VrJAPoAAAAJ&hl=en&oi=ao"
-  email            :  "espottesmith@gmail.com"
+  email            :  "ewcspottesmith@cmu.edu"
   researchgate     :  #"https://www.researchgate.net/profile/Evan-Spotte-Smith"
   uri              :
   bitbucket        :
@@ -314,5 +314,6 @@ compress_html:
 roles:
     - {key: mentee, name: Current Mentees}
     - {key: former_mentee, name: Former Mentees}
+    - {key: advisor, name: Advisors}
     - {key: former_advisor, name: Former Advisors}
     - {key: collaborator, name: Collaborators}

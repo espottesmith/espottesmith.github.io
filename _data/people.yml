@@ -43,18 +43,32 @@ rkam:
     PhD student, UC Berkeley
   image: /images/ronald_kam.png
 
+sblau:
+  display_name: Samuel M. Blau
+  role: collaborator
+  current_position: Research Scientist, LBNL
+  image: /images/sam_blau.png
+
+rachel:
+  display_name: Rachel Kurchin
+  role: advisor
+  current_position: |
+    Assistant Research Professor of Materials Science and Engineering, Carnegie Mellon University
+  image: /images/kurchin.png
+
+gabe:
+  display_name: Gabe dos Passos Gomes
+  role: former_advisor
+  current_position: |
+    Assistant Professor of Chemistry and Chemical Engineering, CMU
+  image: /images/gomes.png
+
 kristin:
   display_name: Kristin Aslaug Persson
   role: former_advisor
   current_position: |
     Daniel M. Tellep Distinguished Professor, UC Berkeley; Director, Molecular Foundry; Director, Materials Project
   image: /images/kristin_persson.png
-
-sblau:
-  display_name: Samuel M. Blau
-  role: collaborator
-  current_position: Research Scientist, LBNL
-  image: /images/sam_blau.png
 
 anubhav:
   display_name: Anubhav Jain

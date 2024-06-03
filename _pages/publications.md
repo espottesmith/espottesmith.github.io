@@ -66,7 +66,7 @@ author_profile: true
 				The Materials Project: A Decade of Materials Discovery.
 			</span><br />
 			<span class="authors">
-				Matthew K.  Horton, Patrick   Huck, Ruoxi X.  Yang, Jason M.  Munro, Shyam   Dwaraknath, Alexander M.  Ganose, Ryan S.  Kingsbury, Mingjian   Wen, Jimmy-Xuan   Shen, Tyler S.  Mathis, Aaron D.  Kaplan, Karlo   Berket, Janosh   Riebesell, Janine   George, Andrew S.  Rosen, <b>Evan Walter Clark  Spotte-Smith</b>, Matthew J.  McDermott, Orion A.  Cohen, Alexander   Dunn, Matthew   Kuner, Gian-Marco   Rignanese, Geoffrey   Hautier, Guido   Petretto, David   Waroquiers, Sinead M.  Griffin, Jeffrey B.  Neaton, Daryl C.  Chrzan, Mark   Asta, Shreyas   Cholia, Gerbrand   Ceder, Shyue-Ping   Ong, Anubhav   Jain, and Kristin A.  Persson.
+				Matthew K.  Horton, Patrick   Huck, Ruoxi X.  Yang, Jason M.  Munro, Shyam   Dwaraknath, Alexander M.  Ganose, Ryan S.  Kingsbury, Mingjian   Wen, Jimmy-Xuan   Shen, Tyler S.  Mathis, Aaron D.  Kaplan, Karlo   Berket, Janosh   Riebesell, Janine   George, Andrew S.  Rosen, <b>Evan Walter Clark  Spotte-Smith</b>, Matthew J.  McDermott, Orion A.  Cohen, Alexander   Dunn, Matthew   Kuner, Gian-Marco   Rignanese, Geoffrey   Hautier, Guido   Petretto, David   Waroquiers, Sinead M.  Griffin, Jeffrey B.  Neaton, Daryl C.  Chrzan, Mark   Asta, Shreyas   Cholia, Gerbrand   Ceder, Shyue Ping  Ong, Anubhav   Jain, and Kristin A.  Persson.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -83,12 +83,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Solubilities of Ethylene and Carbon Dioxide Gases in Lithium-ion Battery Electrolyte.
+				<a href="/files/papers/soto_solubilities_ethylene_2024.pdf">Solubilities of Ethylene and Carbon Dioxide Gases in Lithium-ion Battery Electrolyte</a>.
 			</span><br />
 			<span class="authors">
 				Mel   Soto, Kae   Fink, Christof   Zweifel, Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Gabriel   Veith, Kristin A.  Persson, Andrew M.  Colclasure, and Bertrand J. Tremolet Villers.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">Journal of Chemical & Engineering Data</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -108,7 +108,7 @@ author_profile: true
 			<span class="authors">
 				Noel J.  Leon, Stefan   Illic, Xiaowei   Xie, Heonjae   Jeong, Zhenzhen   Yang, Bingning   Wang, <b>Evan Walter Clark  Spotte-Smith</b>, Charlotte   Stern, Nathan   Hahn, Kevin   Zavadil, Lei   Cheng, Kristin   Persson, Justin   Connell, and Chen   Liao.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">The Journal of Physical Chemistry Letters</span>.
+			<span class="venuetype"></span><span class="venue">The Journal of Physical Chemistry Letters 15(19)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -128,7 +128,7 @@ author_profile: true
 			<span class="authors">
 				Sudarshan   Vijay, Maxwell   Venetos, <b>Evan Walter Clark  Spotte-Smith</b>, Aaron   Kaplan, Mingjian   Wen, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Chemical Science</span>.
+			<span class="venuetype"></span><span class="venue">Chemical Science 15(8)</span>.
 			<br />
 			<span class="links">
 			</span>
