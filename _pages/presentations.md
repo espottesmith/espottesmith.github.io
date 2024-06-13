@@ -23,6 +23,46 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Datasets to Drive Practical Chemical Data Science.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Gordon Research Conference in Computational Chemistry</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Challenging Molecular Machine Learning with Datasets of Ions and Radicals.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Santiago   Vargas, Orion A.  Cohen, Michael W.  Mahoney, Talita   Perciano, Kristin A.  Persson, and Samuel M.  Blau.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Gordon Research Seminar in Computational Chemistry (<b>Invited Talk</b>)</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Using Networks to Obtain Mechanistic Understanding in Electrochemistry.
 			</span><br />
 			<span class="authors">

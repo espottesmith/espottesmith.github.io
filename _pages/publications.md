@@ -23,6 +23,46 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Enabling Inverse Design of Nanoparticle Photophysics via Deep Learning on Heterogeneous Graphs.
+			</span><br />
+			<span class="authors">
+				Eric   Sivonxay, Lucas   Attia, Benjamin   Sanchez-Lengeling, Xiaojing   Xia, <b>Evan Walter Clark  Spotte-Smith</b>, Daniel   Barter, Emory M.  Chan, and Samuel M.  Blau.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Opportunities and Challenges For Large Language Models In the Chemical Sciences.
+			</span><br />
+			<span class="authors">
+				Robert   MacKnight, Daniil A.  Boiko, <b>Evan Walter Clark  Spotte-Smith</b>, Jose Emilio  Regio, Liliana C.  Gallegos, Théo A.  Neukomm, and Gabriel dos Passos  Gomes.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				RNMC: kinetic Monte Carlo implementations for complex reaction networks.
 			</span><br />
 			<span class="authors">
@@ -68,7 +108,7 @@ author_profile: true
 			<span class="authors">
 				Matthew K.  Horton, Patrick   Huck, Ruoxi X.  Yang, Jason M.  Munro, Shyam   Dwaraknath, Alexander M.  Ganose, Ryan S.  Kingsbury, Mingjian   Wen, Jimmy-Xuan   Shen, Tyler S.  Mathis, Aaron D.  Kaplan, Karlo   Berket, Janosh   Riebesell, Janine   George, Andrew S.  Rosen, <b>Evan Walter Clark  Spotte-Smith</b>, Matthew J.  McDermott, Orion A.  Cohen, Alexander   Dunn, Matthew   Kuner, Gian-Marco   Rignanese, Geoffrey   Hautier, Guido   Petretto, David   Waroquiers, Sinead M.  Griffin, Jeffrey B.  Neaton, Daryl C.  Chrzan, Mark   Asta, Shreyas   Cholia, Gerbrand   Ceder, Shyue Ping  Ong, Anubhav   Jain, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
