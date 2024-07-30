@@ -69,14 +69,21 @@ Honors and Awards
 Resources and Funding
 ======
 
+* **Toyota Research Institute Synthesis Advanced Research Challenge** (2024 - 2026)
+  * Award type: Funding
+  * Role: Lead PI
+  * Total award amount: $500,000
 * **Schrodinger Inc.** (2020 - 2024)
   * Award type: Partnership
+  * Role: Initiated partnership, lead point of contact
   * Total award amount: In kind, valued at $5,517,000
 * **High-Performance Computing, National Renewable Energy Laboratory** (2021 - 2023)
   * Award type: High-performance computing allocation
+  * Role: Contributor
   * Total award amount: 5,248,000 node-hours
 * **Energy Research Computing Allocations Process (ERCAP), National Energy Research Supercomputing Center (NERSC)** (2020 - 2023)
   * Award type: High-performance computing allocation
+  * Role: Contributor
   * Total award amount: 325,000 node-hours
 
 Contributed Reviews
