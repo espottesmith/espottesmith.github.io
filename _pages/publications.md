@@ -43,26 +43,6 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Opportunities and Challenges For Large Language Models In the Chemical Sciences.
-			</span><br />
-			<span class="authors">
-				Robert   MacKnight, Daniil A.  Boiko, <b>Evan Walter Clark  Spotte-Smith</b>, Jose Emilio  Regio, Liliana C.  Gallegos, Théo A.  Neukomm, and Gabriel dos Passos  Gomes.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
 				RNMC: kinetic Monte Carlo implementations for complex reaction networks.
 			</span><br />
 			<span class="authors">
@@ -89,6 +69,26 @@ author_profile: true
 				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Santiago   Vargas, Orion   Cohen, Michael W.  Mahoney, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Opportunities and Challenges For Large Language Models In the Chemical Sciences.
+			</span><br />
+			<span class="authors">
+				Robert   MacKnight, Daniil A.  Boiko, <b>Evan Walter Clark  Spotte-Smith</b>, Jose Emilio  Regio, Liliana C.  Gallegos, Théo A.  Neukomm, and Gabriel dos Passos  Gomes.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
