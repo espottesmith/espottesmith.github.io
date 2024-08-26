@@ -69,6 +69,10 @@ Honors and Awards
 Resources and Funding
 ======
 
+* **NSF Advanced Cyberinfrastructure Coordination Ecosystem: Services Support (ACCESS)** (2024 - 2025)
+  * Award type: High-performance computing allocation
+  * Role: Lead PI
+  * Total award amount: 750,000 ACCESS credits
 * **Toyota Research Institute Synthesis Advanced Research Challenge** (2024 - 2026)
   * Award type: Funding
   * Role: Lead PI
