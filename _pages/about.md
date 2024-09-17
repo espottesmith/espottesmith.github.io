@@ -23,7 +23,7 @@ Prior to attending UC Berkeley, I received my Bachelor of Science in Materials S
 in 2019.
 During my undergraduate education, I conducted research on nanoparticle self-assembly dynamics with
 [Irving P. Herman](http://www.columbia.edu/~iph1/index.html) and explored organic reactions for thermochemical energy
-storage applications with [Anubhav Jain](https://hackingmaterials.lbl.gov/) and [Ravi Prasher](https://thermalenergy.lbl.gov/)
-of Lawrence Berkeley National Laboratory.
+storage applications with [Anubhav Jain](https://hackingmaterials.lbl.gov/) and [Ravi Prasher](https://www.bloomenergy.com/team/ravi-prasher/)
+at Lawrence Berkeley National Laboratory.
 
 More information can be found in my full [CV](files/evan_spotte-smith_cv.pdf).
