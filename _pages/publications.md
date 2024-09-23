@@ -46,7 +46,7 @@ author_profile: true
 				Calculated Properties of Molecules at Diverse Charge and Spin States for Next-Generation Chemical Machine Learning.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Santiago   Vargas, Orion   Cohen, Michael W.  Mahoney, Kristin A.  Persson, and Samuel M.  Blau.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Santiago   Vargas, Orion   Cohen, Michael W.  Mahoney, Talita   Perciano, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -106,7 +106,7 @@ author_profile: true
 				<a href="/files/papers/zichi_rnmc_2024.pdf">RNMC: kinetic Monte Carlo implementations for complex reaction networks</a>.
 			</span><br />
 			<span class="authors">
-				Laura   Zichi*, Daniel   Barter*, Eric   Sivonxay*, <b>Evan Walter Clark  Spotte-Smith</b>, M. Rohith  Srinivaas, Kristin A.  Persson, and Samuel M.  Blau.
+				Laura   Zichi*, Daniel   Barter*, Eric   Sivonxay*, <b>Evan Walter Clark  Spotte-Smith</b>, M. Rohith  Srinivaas, Emory  and Chan, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
