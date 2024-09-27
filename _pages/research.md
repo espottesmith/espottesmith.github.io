@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: false
 ---
 
+For information about my research group, check out the [CoReACTER](https://coreacter.org)!
+
 <table class="researchtab" style="border:0;">
 <colgroup>
 <col width="70%" />
