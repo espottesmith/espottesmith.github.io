@@ -11,6 +11,53 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				<big><strong>2025</strong></big><br />
+				
+        
+				
+				
+        
+        
+        
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Data-Driven Design of Reactive Technologies: Case Studies In Energy Storage.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">ACS Spring Meeting (<b>Invited Talk</b>)</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Mechanistic Insights Into Electrolyte Decomposition During Electrochemical Ammonia Synthesis from Machine-Learning Interatomic Potentials.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Andrew   Timmins, and Rachel C.  Kurchin.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">ACS Spring Meeting</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				<big><strong>2024</strong></big><br />
 				
         
@@ -19,6 +66,26 @@ author_profile: true
         
         
         
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Chemical Reaction Network Machine Learning (CRN-ML): A Frontier for Reactivity Studies.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">AIMED Workshop on Heterogeneous Catalysis (<b>Invited Poster</b>)</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
 			</span>
 		</td>
 		<td class="publication">
