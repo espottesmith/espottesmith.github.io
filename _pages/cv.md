@@ -93,7 +93,7 @@ Resources and Funding
 Contributed Reviews
 ======
 
-* 2024: The Journal of Open Source Software (x2), Scientific Data, Digital Discovery, Journal of Physics D: Applied Physics, Journal of Chemical Theory and Computation
+* 2024: The Journal of Open Source Software (x2), Scientific Data, Digital Discovery, Journal of Physics D: Applied Physics, Journal of Chemical Theory and Computation, Journal of Chemical Information and Modeling, Chemical Science
 * 2023: ACS Nano, Journal of Chemical Information and Modeling, npj Computational Materials
 * 2022: ACS Energy Letters, The Journal of Open Source Software
 
