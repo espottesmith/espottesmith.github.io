@@ -39,6 +39,8 @@ Research experience
   
 Teaching experience
 ======
+* **Carnegie Mellon University** (2024)
+  * Guest Lecturer, "Data Science In the Chemical Sciences"
 * **University of California Berkeley** (2022)
   * Graduate Student Instructor, "General Chemistry and Quantitative Analysis"
   * Evaluation: median 7.0/7.0; mean 6.5/7.0
@@ -69,14 +71,14 @@ Honors and Awards
 Resources and Funding
 ======
 
-* **NSF Advanced Cyberinfrastructure Coordination Ecosystem: Services Support (ACCESS)** (2024 - 2025)
-  * Award type: High-performance computing allocation
-  * Role: Lead PI
-  * Total award amount: 750,000 ACCESS credits
 * **Toyota Research Institute Synthesis Advanced Research Challenge** (2024 - 2026)
   * Award type: Funding
   * Role: Lead PI
   * Total award amount: $500,000
+* **NSF Advanced Cyberinfrastructure Coordination Ecosystem: Services Support (ACCESS)** (2024 - 2025)
+  * Award type: High-performance computing allocation
+  * Role: Lead PI
+  * Total award amount: 750,000 ACCESS credits
 * **Schrodinger Inc.** (2020 - 2024)
   * Award type: Partnership
   * Role: Initiated partnership, lead point of contact
@@ -100,6 +102,8 @@ Contributed Reviews
 Organized Symposia and Workshops
 ======
 
+* **Chemical reaction networks, retrosynthesis, and reaction prediction**, ACS Fall Meeting (2025)
+* **Symposium on Responsible and Sustainable AI (ReS AI)**, Carnegie Bosch Institute (2025)
 * **Kavli Career Development Workshop**, UC Berkeley (2023)
 
 Leadership and Service

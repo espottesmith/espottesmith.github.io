@@ -1,3 +1,21 @@
+spagaria:
+  display_name: Shreya Pagaria
+  role: mentee
+  project: |
+    Unsupervised phase identification from molecular dynamics simulations of solid-state reactivity
+  current_position: |
+    Masters student, Carnegie Mellon University
+  image: /images/shreya_pagaria.png
+
+atimmins:
+  display_name: Andrew Timmins
+  role: mentee
+  project: |
+    Accelerated simulations of solid-state nucleation and phase transformations
+  current_position: |
+    PhD student, Carnegie Mellon University
+  image: /images/andrew_timmins.png
+
 lauraz:
   display_name: Laura Zichi
   role: former_mentee
@@ -13,7 +31,7 @@ akhanwale:
   project: |
     Calculation of charge transfer rates through battery interphases
   current_position: |
-    Masters Student, UC Berkeley
+    Device/Electrical Test Engineer, Stealth Startup
   image: /images/aniruddh_khanwale.png
 
 theap:

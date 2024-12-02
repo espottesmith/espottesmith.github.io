@@ -58,6 +58,26 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Towards Rational Design of Sustainable Technologies with Data-Enabled Reactive Simulations.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Andrew   Timmins, and Rachel C.  Kurchin.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Symposium on Responsible and Sustainable AI</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				<big><strong>2024</strong></big><br />
 				
         
