@@ -17,7 +17,7 @@ My research focuses on combining machine learning with simulations to optimize (
 I'm also thinking about developing ethical standards and policy to guide applications of machine learning, particularly in the chemical sciences.
 
 I obtained my PhD in Materials Science and Engineering from the University of California, Berkeley, where I was advised by [Prof. Kristin Aslaug Persson](https://perssongroup.lbl.gov).
-During my time at UC Berkeley, I held the [Philomathia Graduate Student Fellowship](https://kavli.berkeley.edu/evan-walter-clark-spotte-smith) through the Kavli Energy Nanoscience Institute.
+During my PhD studies, I held the [Philomathia Graduate Student Fellowship](https://kavli.berkeley.edu/evan-walter-clark-spotte-smith) through the Kavli Energy Nanoscience Institute.
 
 Prior to attending UC Berkeley, I received my Bachelor of Science in Materials Science and Engineering from Columbia University
 in 2019.

@@ -75,6 +75,10 @@ Resources and Funding
   * Award type: Funding
   * Role: Lead PI
   * Total award amount: $500,000
+* **National Artificial Intelligence Research Resource (NAIRR) Pilot** (2025 - 2026)
+  * Award type: High-performance computing allocation
+  * Role: Lead PI
+  * Total award amount: 17,500 GPU-hours, 380,000 CPU-hours
 * **NSF Advanced Cyberinfrastructure Coordination Ecosystem: Services Support (ACCESS)** (2024 - 2025)
   * Award type: High-performance computing allocation
   * Role: Lead PI
