@@ -128,7 +128,7 @@ author_profile: true
 			<span class="authors">
 				Laura   Zichi*, Daniel   Barter*, Eric   Sivonxay*, <b>Evan Walter Clark  Spotte-Smith</b>, M. Rohith  Srinivaas, Emory  and Chan, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">The Journal of Open Source Software (in press)</span>.
+			<span class="venuetype"></span><span class="venue">The Journal of Open Source Software (in press) 9(104)</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -148,7 +148,7 @@ author_profile: true
 			<span class="authors">
 				Mel   Soto, Kae   Fink, Christof   Zweifel, Peter J.  Weddle, <b>Evan Walter Clark  Spotte-Smith</b>, Gabriel   Veith, Kristin A.  Persson, Andrew M.  Colclasure, and Bertrand J. Tremolet Villers.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Journal of Chemical & Engineering Data</span>.
+			<span class="venuetype"></span><span class="venue">Journal of Chemical & Engineering Data 69(6)</span>.
 			<br />
 			<span class="links">
 			</span>
