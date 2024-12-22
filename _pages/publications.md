@@ -23,10 +23,10 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Enabling Inverse Design of Nanoparticle Photophysics via Deep Learning on Heterogeneous Graphs.
+				Calculated Properties of Molecules at Diverse Charge and Spin States for Next-Generation Chemical Machine Learning.
 			</span><br />
 			<span class="authors">
-				Eric   Sivonxay, Lucas   Attia, <b>Evan Walter Clark  Spotte-Smith</b>, Benjamin   Sanchez-Lengeling, Xiaojing   Xia, Daniel   Barter, Emory M.  Chan, and Samuel M.  Blau.
+				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Santiago   Vargas, Orion   Cohen, Michael W.  Mahoney, Talita   Perciano, Kristin A.  Persson, and Samuel M.  Blau.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -43,12 +43,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Calculated Properties of Molecules at Diverse Charge and Spin States for Next-Generation Chemical Machine Learning.
+				<a href="/files/papers/sivonxay_inverse_design_2024.pdf">Enabling Inverse Design of Nanoparticle Photophysics via Deep Learning on Heterogeneous Graphs</a>.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Santiago   Vargas, Orion   Cohen, Michael W.  Mahoney, Talita   Perciano, Kristin A.  Persson, and Samuel M.  Blau.
+				Eric   Sivonxay, Lucas   Attia, <b>Evan Walter Clark  Spotte-Smith</b>, Benjamin   Sanchez-Lengeling, Xiaojing   Xia, Daniel   Barter, Emory M.  Chan, and Samuel M.  Blau.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
 			<span class="links">
 			</span>
