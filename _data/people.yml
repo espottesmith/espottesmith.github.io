@@ -1,12 +1,3 @@
-spagaria:
-  display_name: Shreya Pagaria
-  role: mentee
-  project: |
-    Unsupervised phase identification from molecular dynamics simulations of solid-state reactivity
-  current_position: |
-    Masters student, Carnegie Mellon University
-  image: /images/shreya_pagaria.png
-
 atimmins:
   display_name: Andrew Timmins
   role: mentee
@@ -15,6 +6,15 @@ atimmins:
   current_position: |
     PhD student, Carnegie Mellon University
   image: /images/andrew_timmins.png
+
+spagaria:
+  display_name: Shreya Pagaria
+  role: former_mentee
+  project: |
+    Unsupervised phase identification from molecular dynamics simulations of solid-state reactivity
+  current_position: |
+    Masters student, Carnegie Mellon University
+  image: /images/shreya_pagaria.png
 
 lauraz:
   display_name: Laura Zichi

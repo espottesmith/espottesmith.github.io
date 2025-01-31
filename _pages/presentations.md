@@ -78,6 +78,29 @@ author_profile: true
 		<td>
 			<span class="date">
 				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				Towards Data-Driven Analysis of Sustainable Electrochemical Reactions.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Unknown venue (type=misc)</span>.
+			<span class="note">
+			Bosch Research and Technology Center Seminar.
+			</span>
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
 				<big><strong>2024</strong></big><br />
 				
         
