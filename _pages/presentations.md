@@ -90,7 +90,7 @@ author_profile: true
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Unknown venue (type=misc)</span>.
 			<span class="note">
-			Bosch Research and Technology Center Seminar.
+			Bosch Research and Technology Center Seminar (&lt;b&gt;Invited Talk&lt;/b&gt;).
 			</span>
 			<br />
 			<span class="links">

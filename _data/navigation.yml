@@ -13,11 +13,11 @@ main:
   - title: "Presentations"
     url: /presentations/
 
+ - title: "Teaching"
+   url: /teaching/
+
   - title: "Software"
     url: /software/
     
   - title: "CV"
     url: /cv/
-
-#  - title: "Teaching"
-#    url: /teaching/

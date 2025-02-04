@@ -1,3 +1,11 @@
+rnmc:
+  name: RNMC
+  description: | 
+    Reaction Network Monte Carlo (RNMC) is a collection of programs for Monte Carlo simulation of statistical mechanical systems heavily inspired by SPPARKS. RNMC is designed to run large numbers of simulations of a fixed system in parallel.
+  role: Developer/Lead Maintainer
+  image: /images/rnmc.png
+  url: https://github.com/BlauGroup/RNMC
+
 emmet:
   name: Emmet
   description: |

@@ -23,6 +23,26 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Considering the ethics of large machine learning models in the chemical sciences.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Calculated Properties of Molecules at Diverse Charge and Spin States for Next-Generation Chemical Machine Learning.
 			</span><br />
 			<span class="authors">
@@ -47,26 +67,6 @@ author_profile: true
 			</span><br />
 			<span class="authors">
 				Eric   Sivonxay, Lucas   Attia, <b>Evan Walter Clark  Spotte-Smith</b>, Benjamin   Sanchez-Lengeling, Xiaojing   Xia, Daniel   Barter, Emory M.  Chan, and Samuel M.  Blau.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				Opportunities and Challenges For Large Language Models In the Chemical Sciences.
-			</span><br />
-			<span class="authors">
-				Robert   MacKnight, Daniil A.  Boiko, <b>Evan Walter Clark  Spotte-Smith</b>, Jose Emilio  Regio, Liliana C.  Gallegos, Théo A.  Neukomm, and Gabriel dos Passos  Gomes.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In review</span>.
 			<br />
