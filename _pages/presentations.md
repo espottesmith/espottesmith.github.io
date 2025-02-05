@@ -88,10 +88,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Unknown venue (type=misc)</span>.
-			<span class="note">
-			Bosch Research and Technology Center Seminar (&lt;b&gt;Invited Talk&lt;/b&gt;).
-			</span>
+			<span class="venuetype"></span><span class="venue">Bosch Research and Technology Center Seminar (<b>Invited Talk</b>)</span>.
 			<br />
 			<span class="links">
 			</span>
