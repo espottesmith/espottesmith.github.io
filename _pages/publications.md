@@ -23,6 +23,26 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
+				Accelerated Simulations of Electrolyte Decomposition In Metal-Mediated Ammonia Synthesis.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>, Andrew   Timmins, and Rachel C.  Kurchin.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
 				Considering the ethics of large machine learning models in the chemical sciences.
 			</span><br />
 			<span class="authors">
