@@ -26,27 +26,7 @@ author_profile: true
 				Accelerated Simulations of Electrolyte Decomposition In Metal-Mediated Ammonia Synthesis.
 			</span><br />
 			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>, Andrew   Timmins, and Rachel C.  Kurchin.
-			</span><br />
-			<span class="venuetype"></span><span class="venue">In preparation</span>.
-			<br />
-			<span class="links">
-			</span>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="date">
-				
-				
-			</span>
-		</td>
-		<td class="publication">
-			<span class="pubtitle">
-				Considering the ethics of large machine learning models in the chemical sciences.
-			</span><br />
-			<span class="authors">
-				<b>Evan Walter Clark  Spotte-Smith</b>.
+				<b>Evan Walter Clark  Spotte-Smith</b> and Rachel C.  Kurchin.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
@@ -67,6 +47,26 @@ author_profile: true
 			</span><br />
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>, Kareem   Hegazy, Matthew   Avaylon, Santiago   Vargas, Orion   Cohen, Michael W.  Mahoney, Talita   Perciano, Kristin A.  Persson, and Samuel M.  Blau.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">In preparation</span>.
+			<br />
+			<span class="links">
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<a href="/files/papers/spottesmith_considering_ethics_2025.pdf">Considering the ethics of large machine learning models in the chemical sciences</a>.
+			</span><br />
+			<span class="authors">
+				<b>Evan Walter Clark  Spotte-Smith</b>.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">In preparation</span>.
 			<br />
