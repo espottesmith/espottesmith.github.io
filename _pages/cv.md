@@ -54,6 +54,7 @@ Teaching experience
 Honors and Awards
 ======
 
+* **Outstanding Reviewer**, Institute of Physics (2025)
 * **Carnegie Bosch Institute Fellowship**, Carnegie Mellon University (2024)
 * **President's Postdoctoral Fellow**, Carnegie Mellon University (2024, declined)
 * **Pre-faculty Workshop Participant**, NextProf Nexus (2023)
