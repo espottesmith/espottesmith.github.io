@@ -102,7 +102,7 @@ Resources and Funding
 Contributed Reviews
 ======
 
-* 2025: The Journal of Physical Chemistry
+* 2025: The Journal of Physical Chemistry (x2), Journal of Materials Chemistry A, ACS Applied Energy Materials, JuliaCon 2025, NAIRR Pilot (x6), European Research Council Synergy Grant
 * 2024: The Journal of Open Source Software (x2), Scientific Data, Digital Discovery, Journal of Physics D: Applied Physics, Journal of Chemical Theory and Computation, Journal of Chemical Information and Modeling, Chemical Science
 * 2023: ACS Nano, Journal of Chemical Information and Modeling, npj Computational Materials
 * 2022: ACS Energy Letters, The Journal of Open Source Software
@@ -117,6 +117,9 @@ Organized Symposia and Workshops
 Leadership and Service
 ======
 
+* **The Journal of Open Source Software** (2025 - )
+  * Manage journal submissions related to data science, chemistry, materials science, and engineering
+  * **Current Role**: Topic Editor
 * **DisabledInSTEM Mentorship Program** (2025 - )
   * Meet regularly with disabled scientists and engineers to discuss disability, social justice, professional development, and academics
   * Organize and participate in group activities to build community

@@ -83,7 +83,7 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/guha_vargas_hepom_using_2024.pdf">HEPOM: Using Graph Neural Networks for the accelerated predictions of Hydrolysis Free Energies in different pH conditions</a>.
+				<a href="/files/papers/guha_vargas_hepom_using_2025.pdf">HEPOM: Using Graph Neural Networks for the accelerated predictions of Hydrolysis Free Energies in different pH conditions</a>.
 			</span><br />
 			<span class="authors">
 				Rishabh D.  Guha*, Santiago   Vargas*, <b>Evan Walter Clark  Spotte-Smith</b>, Alexander Rizzolo  Epstein, Maxwell   Venetos, Ryan   Kingsbury, Mingjian   Wen, Samuel M.  Blau, and Kristin A.  Persson.
