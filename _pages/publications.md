@@ -26,7 +26,7 @@ author_profile: true
 				The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models.
 			</span><br />
 			<span class="authors">
-				Daniel S.  Levine*, Muhammed   Shuaibi*, <b>Evan Walter Clark  Spotte-Smith</b>, Michael G.  Taylor, Muhammad R.  Hasyim, Kyle   Michel, Ilyes   Batatia, Gábor   Csányi, Misko   Dzamba, Peter   Eastman, Nathan C.  Frey, Xiang   Fu, Vahe   Gharakhanyan, Aditi S.  Krishnapriyan, Joshua A.  Rackers, Sanjeev   Raja, Ammar   Rizvi, Andrew S.  Rosen, Zachary   Ulissi, Santiago   Vargas, C. Lawrence  Zitnick, Samuel M.  Blau, and Brandom M.  Wood.
+				Daniel S.  Levine*, Muhammed   Shuaibi*, <b>Evan Walter Clark  Spotte-Smith</b>, Michael G.  Taylor, Muhammad R.  Hasyim, Kyle   Michel, Ilyes   Batatia, Gábor   Csányi, Misko   Dzamba, Peter   Eastman, Nathan C.  Frey, Xiang   Fu, Vahe   Gharakhanyan, Aditi S.  Krishnapriyan, Joshua A.  Rackers, Sanjeev   Raja, Ammar   Rizvi, Andrew S.  Rosen, Zachary   Ulissi, Santiago   Vargas, C. Lawrence  Zitnick, Samuel M.  Blau, and Brandon M.  Wood.
 			</span><br />
 			<span class="venuetype"></span><span class="venue">arXiv</span>.
 			<br />
