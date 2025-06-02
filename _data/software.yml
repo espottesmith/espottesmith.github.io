@@ -1,3 +1,19 @@
+simpledirhypergraphs:
+  name: SimpleDirectedHypergraphs.jl
+  description: |
+    SimpleDirectedHypergraphs.jl is a Julia package for directed hypergraph data structures. It builds off of SimpleHypergraphs.jl, which in turn implements the Graphs.jl interface.
+  role: Lead Developer/Maintainer
+  image: /images/simpdirhypergraphs.png
+  url: https://github.com/coreacter/SimpleDirectedHypergraphs.jl
+
+simplehypergraphs:
+  name: SimpleHypergraphs.jl
+  description: |
+    A simple hypergraphs package for the Julia programming language.
+  role: Contributor
+  image: /images/simplehypergraphs.png
+  url: https://github.com/pszufe/SimpleHypergraphs.jl
+
 rnmc:
   name: RNMC
   description: | 
