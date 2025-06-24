@@ -1,3 +1,21 @@
+punnaamorn:
+  display_name: Punna Amornvivat
+  role: mentee
+  project: |
+    Developing a software framework for (chemical) hypergraph neural networks
+  current_position: |
+    Bachelor's Student, CMU
+  image: /images/punna_amorn.jpg
+
+vanshika:
+  display_name: Katherine (Kitty) Pierre-Louis
+  role: mentee
+  project: |
+    TBD
+  current_position: |
+    Visiting Student
+  image: /images/kitty_pl.jpg
+
 vanshika:
   display_name: Vanshika Raj Singh
   role: mentee
