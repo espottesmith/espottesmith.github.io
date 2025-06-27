@@ -8,7 +8,7 @@ punnaamorn:
   image: /images/punna_amorn.jpg
 
 kitty:
-  display_name: Katherine (Kitty) Pierre-Louis
+  display_name: "Katherine (Kitty) Pierre-Louis"
   role: mentee
   project: |
     TBD
