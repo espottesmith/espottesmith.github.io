@@ -83,7 +83,7 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				Accelerated Data-Driven Materials Science with the Materials Project.
+				<a href="/files/papers/horton_accelerated_data_2025.pdf">Accelerated Data-Driven Materials Science with the Materials Project</a>.
 			</span><br />
 			<span class="authors">
 				Matthew K.  Horton, Patrick   Huck, Ruoxi X.  Yang, Jason M.  Munro, Shyam   Dwaraknath, Alexander M.  Ganose, Ryan S.  Kingsbury, Mingjian   Wen, Jimmy-Xuan   Shen, Tyler S.  Mathis, Aaron D.  Kaplan, Karlo   Berket, Janosh   Riebesell, Janine   George, Andrew S.  Rosen, <b>Evan Walter Clark  Spotte-Smith</b>, Matthew J.  McDermott, Orion A.  Cohen, Alexander   Dunn, Matthew   Kuner, Gian-Marco   Rignanese, Geoffrey   Hautier, Guido   Petretto, David   Waroquiers, Sinead M.  Griffin, Jeffrey B.  Neaton, Daryl C.  Chrzan, Mark   Asta, Shreyas   Cholia, Gerbrand   Ceder, Shyue Ping  Ong, Anubhav   Jain, and Kristin A.  Persson.
