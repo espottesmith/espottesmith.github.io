@@ -68,7 +68,7 @@ author_profile: true
 			<span class="authors">
 				<b>Evan Walter Clark  Spotte-Smith</b>.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Machine Learning: Science and Technology (in press)</span>.
+			<span class="venuetype"></span><span class="venue">Machine Learning: Science and Technology</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -88,7 +88,7 @@ author_profile: true
 			<span class="authors">
 				Matthew K.  Horton, Patrick   Huck, Ruoxi X.  Yang, Jason M.  Munro, Shyam   Dwaraknath, Alexander M.  Ganose, Ryan S.  Kingsbury, Mingjian   Wen, Jimmy-Xuan   Shen, Tyler S.  Mathis, Aaron D.  Kaplan, Karlo   Berket, Janosh   Riebesell, Janine   George, Andrew S.  Rosen, <b>Evan Walter Clark  Spotte-Smith</b>, Matthew J.  McDermott, Orion A.  Cohen, Alexander   Dunn, Matthew   Kuner, Gian-Marco   Rignanese, Geoffrey   Hautier, Guido   Petretto, David   Waroquiers, Sinead M.  Griffin, Jeffrey B.  Neaton, Daryl C.  Chrzan, Mark   Asta, Shreyas   Cholia, Gerbrand   Ceder, Shyue Ping  Ong, Anubhav   Jain, and Kristin A.  Persson.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Nature Materials (in press)</span>.
+			<span class="venuetype"></span><span class="venue">Nature Materials</span>.
 			<br />
 			<span class="links">
 			</span>
