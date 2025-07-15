@@ -23,12 +23,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/sivonxay_inverse_design_2024.pdf">Enabling Inverse Design of Nanoparticle Photophysics via Deep Learning on Heterogeneous Graphs</a>.
+				<a href="/files/papers/levine_shuaibi_omol_2025.pdf">The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models</a>.
 			</span><br />
 			<span class="authors">
-				Eric   Sivonxay, Lucas   Attia, <b>Evan Walter Clark  Spotte-Smith</b>, Benjamin   Sanchez-Lengeling, Xiaojing   Xia, Daniel   Barter, Emory M.  Chan, and Samuel M.  Blau.
+				Daniel S.  Levine*, Muhammed   Shuaibi*, <b>Evan Walter Clark  Spotte-Smith</b>, Michael G.  Taylor, Muhammad R.  Hasyim, Kyle   Michel, Ilyes   Batatia, Gábor   Csányi, Misko   Dzamba, Peter   Eastman, Nathan C.  Frey, Xiang   Fu, Vahe   Gharakhanyan, Aditi S.  Krishnapriyan, Joshua A.  Rackers, Sanjeev   Raja, Ammar   Rizvi, Andrew S.  Rosen, Zachary   Ulissi, Santiago   Vargas, C. Lawrence  Zitnick, Samuel M.  Blau, and Brandon M.  Wood.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">In review</span>.
+			<span class="venuetype"></span><span class="venue">arXiv</span>.
 			<br />
 			<span class="links">
 			</span>
@@ -43,12 +43,12 @@ author_profile: true
 		</td>
 		<td class="publication">
 			<span class="pubtitle">
-				<a href="/files/papers/levine_shuaibi_omol_2025.pdf">The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models</a>.
+				<a href="/files/papers/sivonxay_inverse_design_2024.pdf">Enabling Inverse Design of Nanoparticle Photophysics via Deep Learning on Heterogeneous Graphs</a>.
 			</span><br />
 			<span class="authors">
-				Daniel S.  Levine*, Muhammed   Shuaibi*, <b>Evan Walter Clark  Spotte-Smith</b>, Michael G.  Taylor, Muhammad R.  Hasyim, Kyle   Michel, Ilyes   Batatia, Gábor   Csányi, Misko   Dzamba, Peter   Eastman, Nathan C.  Frey, Xiang   Fu, Vahe   Gharakhanyan, Aditi S.  Krishnapriyan, Joshua A.  Rackers, Sanjeev   Raja, Ammar   Rizvi, Andrew S.  Rosen, Zachary   Ulissi, Santiago   Vargas, C. Lawrence  Zitnick, Samuel M.  Blau, and Brandon M.  Wood.
+				Eric   Sivonxay, Lucas   Attia, <b>Evan Walter Clark  Spotte-Smith</b>, Benjamin   Sanchez-Lengeling, Xiaojing   Xia, Daniel   Barter, Emory M.  Chan, and Samuel M.  Blau.
 			</span><br />
-			<span class="venuetype"></span><span class="venue">arXiv</span>.
+			<span class="venuetype"></span><span class="venue">Nature Computational Science (in press)</span>.
 			<br />
 			<span class="links">
 			</span>
