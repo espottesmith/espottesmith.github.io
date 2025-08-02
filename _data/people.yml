@@ -1,3 +1,10 @@
+mnislam:
+  display_name: Mohammad Nahidul Islam
+  role: mentee
+  project: TBD
+  current_position: Incoming Master's student in Chemical Engineering, University of Calgary
+  image: /images/mnislam.png
+
 punnaamorn:
   display_name: Punna Amornvivat
   role: mentee
@@ -11,7 +18,7 @@ kitty:
   display_name: "Katherine (Kitty) Pierre-Louis"
   role: mentee
   project: |
-    TBD
+    Comparative study of transport in gel polymer electrolytes for Na-ion batteries
   current_position: |
     Visiting Student
   image: /images/kitty_pl.jpg
@@ -20,7 +27,7 @@ vanshika:
   display_name: Vanshika Raj Singh
   role: mentee
   project: |
-    TBD
+    Molecular dynamics simulations of alkaline earth metal-mediated ammonia synthesis
   current_position: |
     Bachelor's Student, BIT Mesra
   image: /images/vanshika.jpg
@@ -40,7 +47,7 @@ spagaria:
   project: |
     Unsupervised phase identification from molecular dynamics simulations of solid-state reactivity
   current_position: |
-    Masters student, Carnegie Mellon University
+    Master's student, Carnegie Mellon University
   image: /images/shreya_pagaria.png
 
 lauraz:
@@ -91,7 +98,7 @@ rkam:
 sblau:
   display_name: Samuel M. Blau
   role: collaborator
-  current_position: Research Scientist, LBNL
+  current_position: Career Research Scientist, LBNL
   image: /images/sam_blau.png
 
 rachel:
@@ -112,7 +119,7 @@ kristin:
   display_name: Kristin Aslaug Persson
   role: former_advisor
   current_position: |
-    Daniel M. Tellep Distinguished Professor, UC Berkeley; Director, Molecular Foundry; Director, Materials Project
+    Daniel M. Tellep Distinguished Professor, UC Berkeley; Director, Materials Project
   image: /images/kristin_persson.png
 
 anubhav:
